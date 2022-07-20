@@ -40,7 +40,6 @@ Welcome to CSCI 1230, the longest-running computer graphics course in the known 
 * Course website: https://csci1230.graphics
 * TA mailing list: cs1230tas@cs.brown.edu
 * Ed discussion board: https://edstem.org/us/courses/12828
-* Labs/Help Sessions/Gear Ups: See the [course calendar](https://csci1230.graphics) for times and locations
 
 For those confused by the different choices for this course on C@B, we've put together this handy guide:
 * CSCI 1230 S01: The main section of the course. You should sign up for this, unless any of the below circumstances apply to you.
@@ -72,7 +71,7 @@ Students who complete this course will:
 * Know how to process images by applying filters and transformations while minimizing artifacts such as aliasing (a.k.a. “jaggies”).
 * Understand the fundamentals of human color perception, the abilities of displays to reproduce colors, and the impact of color choice on viewer experience.
 
-The full list of CSCI 1230 topics can be found on the "class" page of the website (https://csci1230.graphics/lectures.html).
+The full list of CSCI 1230 topics can be found on the "class" page of the website (https://csci1230.graphics/lectures).
 
 ### Work Expectations
 
@@ -80,48 +79,44 @@ Over 13 weeks, students will spend 3 hours per week in class (39 hours total), a
 
 ### Grading
 
-Your CSCI 1230 grade consists of 1 tiny written homework, 7 rigorously graded projects, 12 labs that are given completion grades (one of the three final labs is optional), and a final project that is graded according to your presentation to the class during finals period, together with a small "citizenship/participation" score. There are no exams or quizzes, and final grades are not curved; if the work meets specification, it deserves an A, and that is the most common grade. HW0 (which is about the collaboration policy) is critical: you must do it correctly or fail the course.
-* **HW0** (Out 9/9) ***(must be done correctly to pass course)***
+Your CSCI 1230 grade consists of 1 tiny written homework, 6 rigorously graded projects, 12 labs that are given completion grades (one of the three final labs is optional), and a final project that is graded according to your presentation to the class during finals period. There are no exams or quizzes, and final grades are not curved; if the work meets specification, it deserves an A, and that is the most common grade. HW0 (which is about the collaboration policy) is critical: you must do it correctly or fail the course.
+* **HW0** ***(must be done correctly to pass course)***
 * **Projects**:
-  * **Brush** (Out 9/9, Due 9/21, weight 7%)
-  * **Shapes** (Out 9/21, Due 10/5, weight 12%)
-  * **Intersect** (Out 10/5, Due 10/19, weight 13%)
-  * **Ray** (Out 10/19, Due 11/2, weight 11%)
-  * **Sceneview** (Out 11/2, Due 11/11, weight 8%)
-  * **Filter** (Out 11/11, Due 11/24, weight 11%)
+  * **Raster/Brush**: 8%
+  * **Raster/Filter**: 12%
+  * **Ray/1**: 13%
+  * **Ray/2**: 11%
+  * **Realtime/1**: 10%
+  * **Realtime/2**: 11%
 * **"Algo" assignments for projects**: 10%
-* **Final Project** (Out 11/16, Due 12/9, Presentation date 12/10, weight 15%)
-* **11 out of 12 Labs** (Due by Monday of next lab, total weight 10%)
-* **Citizenship/Participation** (weight 3%)
-
-Furthermore, students will have the option to log their attendance at TA hours. This helps us track participation at TA hours, which may be taken into account when calculating final grades for some students. A student’s grade will not be harmed by lack of attendance.
+* **Final Project**: 15%
+* **11 out of 12 Labs**: 10%
 
 ### Materials
 
-The primary text for this course is the most recent edition of *Computer Graphics: Principles and Practice, by John Hughes, Andy van Dam, Morgan McGuire, David Sklar, Jim Foley, Steve Feiner, and Kurt Akeley*. The book is currently available at Amazon.com for $80.
-
-The book is not required, as the lecture slides for CS1230 are nearly comprehensive. These slides do not replace the textbook, but they are the best source of information that is directly relevant to the assignments.
+The primary text for this course is the most recent edition of *Computer Graphics: Principles and Practice, by John Hughes, Andy van Dam, Morgan McGuire, David Sklar, Jim Foley, Steve Feiner, and Kurt Akeley*.
+**The book is not required**, as the lecture slides for CS1230 are nearly comprehensive. These slides do not replace the textbook, but they are the best source of information that is directly relevant to the assignments.
 
 The course website has a wealth of information that will be useful to you throughout the semester:
-* Instructions and stencil code for each project: https://csci1230.graphics/asgns.shtml
-* Instructions and stencil code for each lab: https://csci1230.graphics/labs.shtml
-* Links to PDF and PowerPoint versions of each class and accompanying videos and/or demos: https://csci1230.graphics/lectures.shtml
+* TA hours schedule and contact information: https://csci1230.graphics/
+* Instructions and stencil code for each project: https://csci1230.graphics/projects
+* Instructions and stencil code for each lab: https://csci1230.graphics/labs
+* Links to PDF and PowerPoint versions of each class and accompanying videos and/or demos: https://csci1230.graphics/lectures
 * Documentation for the support code, help session slides, and links to external sources for help
-with OpenGL: https://csci1230.graphics/docs.shtml
-* TA hours schedule and contact information: https://csci1230.graphics/staff.shtml
+with OpenGL: https://csci1230.graphics/docs
 
 ### Collaboration Policy
 
-CSCI 1230 has a strictly enforced [collaboration policy](https://github.com/cs123tas/docs/blob/master/2021/2021%20Collaboration%20Policy.pdf) in line with [Brown's Academic Code](https://www.brown.edu/academics/college/degree/sites/brown.edu.academics.college.degree/files/uploads/Academic-Code.pdf) which emphasizes that all written work must be the student's own except for certain limited forms of collaboration that are explicitly permitted. Our collaboration policy in particular prohibits collaboration on the design and implementation of programs.
+CSCI 1230 has a strictly enforced [collaboration policy](????) in line with [Brown's Academic Code](https://www.brown.edu/academics/college/degree/sites/brown.edu.academics.college.degree/files/uploads/Academic-Code.pdf) which emphasizes that all written work must be the student's own except for certain limited forms of collaboration that are explicitly permitted.
 
 ### Late Policy
-A late algo or lab checkoff will receive **no credit**. Each day a project is turned in late will be penalized 10% of the possible total points. (If you are 25 hours late in handing in that’s a 20% even though you hand in during the first hour of that ‘extra day’).
+A late algo or lab checkoff will receive **no credit**. Each day a project is turned in late will be penalized 10% of the possible total points. (If you are 25 hours late in handing in, that’s a 20%, even though you hand in during the first hour of that ‘extra day’).
 
-Every student has five late passes that can each be used to waive a day that a project was turned in late (and the opportunity to earn an extra late pass by filling out the mid-semester and final survey). A maximum of 3 late days can be applied per project (except for Filter and the Final project). These late passes will automatically be applied optimally (to maximize your grade) at the end of the semester. The Filter project is due on the Wednesday before Thanksgiving, and you may use a *single* late day to extend this due-date to Sunday of Thanksgiving break. You may **not** use **any** late days at all on the Final project.
+Every student has five late passes that can each be used to waive a day that a project was turned in late (and the opportunity to earn an extra late pass by filling out a mid-semester course feedback survey). These late passes will automatically be applied optimally (to maximize your grade) at the end of the semester. You may **not** use **any** late days at all on the Final project.
 
-Late days are expected to cover clustering of due dates and job interviews. For sickness and other issues of wellbeing, please obtain a note from health services or a dean and communicate with Daniel; the TAs will not be involved in handling these.
+Late days are expected to cover clustering of due dates and job interviews. For sickness and other issues of wellbeing, please obtain a note from health services or a Dean and communicate with Daniel; the TAs will not be involved in handling these.
 
-Lastly, all labs (11 out of 12) and projects must be handed in with at least minimal functionality by the end of the semester in order to receive your course grade (these handins are **not** exceptions to late penalties). As projects build upon each other, it is important to start early and quickly recover from late handins.
+As projects build upon each other, it is important to start early and quickly recover from late handins.
 
 ### Diversity and Inclusion
 
