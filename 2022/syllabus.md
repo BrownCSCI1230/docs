@@ -34,13 +34,19 @@ Welcome to CSCI 1230, the longest-running computer graphics course in the known 
 
 ### Course Staff & Essential Info
 * Professor: Daniel Ritchie (dritchi1)
-* Head TAs: Alex Mina (jmina), Caleb Trotz (ctrotz)
-* UTAs: Aalia Habib (ahabib3), Aparna Natarajan (anatara7), Adam Pikielny (apikieln), Alana White (apikieln), Breese Sherman (bsherma3), Junewoo Park (jpark49), Yuna Hiraide (yhiraide)
-* Lectures: Tues & Thurs 10:30am -- 11:50am, location TBD. Lectures will be recorded and promptly available online for students who have chosen remote asynchronous participation this semester.
+* Head TAs: Zack Cheng (zcheng12), Logan Dooley (ldooley)
+* UTAs: Yiwen Chen (ychen485), Adrian Chang (achang57), Jianxin Gu (jgu26), Nick Huang (yhuan170), Helen Huang (hhuang65), Mehek Jethani (mjethani), Marc Mapeke (mmapeke), Derick Toth (dtoth1), Sean Zhan (xzhan2), Anna Zhao (azhao26)
+* Lectures: Tues & Thurs 10:30am -- 11:50am, Metcalf Auditorium. Lectures will be recorded and promptly available online.
 * Course website: https://csci1230.graphics
 * TA mailing list: cs1230tas@cs.brown.edu
 * Ed discussion board: https://edstem.org/us/courses/12828
 * Labs/Help Sessions/Gear Ups: See the [course calendar](https://csci1230.graphics) for times and locations
+
+For those confused by the different choices for this course on C@B, we've put together this handy guide:
+* CSCI 1230 S01: The main section of the course. You should sign up for this, unless any of the below circumstances apply to you.
+* CSCI 1230 S02: This section is for students who really want to take the course but have an unavoidable time conflict with another course; since this section is marked as "ONLINE" on C@B, it will not trigger a schedule conflict with any other course. If you need to enroll in this section, you are still welcome (and encouraged!) to come to lecture, conflicts permitting. At minimum, you should watch the lecture recordings soon after they are posted.
+* CSCI 2230: This course is for graduate students who wish to earn 2000-level credit. Graduate students enrolled in this course attend the same lectures and complete the same assignments as students in CSCI 1230; however, they will be expected to implement some extra features for each assignment. Undergraduates cannot enroll in this course.
+* CSCI 1234: This half-credit course (to be taken in addition to CSCI 1230 S01 or CSCI 1230 S02) is for undergraduates who wish to use CS 1230 to fulfil their degree capstone requirement. Undergraduates enrolled in this course will be expected to complete the same additional requirements as graduate students who are enrolled in CSCI 2230.
 
 ### Prerequisites
 
