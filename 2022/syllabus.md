@@ -46,19 +46,18 @@ For those confused by the different choices for this course on C@B, we've put to
 * CSCI 1230 S01: The main section of the course. You should sign up for this, unless any of the below circumstances apply to you.
 * CSCI 1230 S02: This section is for students who really want to take the course but have an unavoidable time conflict with another course; since this section is marked as "ONLINE" on C@B, it will not trigger a schedule conflict with any other course. If you need to enroll in this section, you are still welcome (and encouraged!) to come to lecture, conflicts permitting. At minimum, you should watch the lecture recordings soon after they are posted.
 * CSCI 2230: This course is for graduate students who wish to earn 2000-level credit. Graduate students enrolled in this course attend the same lectures and complete the same assignments as students in CSCI 1230; however, they will be expected to implement some extra features for each assignment. Undergraduates cannot enroll in this course.
-* CSCI 1234: This half-credit course (to be taken in addition to CSCI 1230 S01 or CSCI 1230 S02) is for undergraduates who wish to use CS 1230 to fulfil their degree capstone requirement. Undergraduates enrolled in this course will be expected to complete the same additional requirements as graduate students who are enrolled in CSCI 2230.
+* CSCI 1234: This half-credit course (to be taken in addition to CSCI 1230 S01 or CSCI 1230 S02) is for undergraduates who wish to use CSCI 1230 to fulfil their degree capstone requirement. Undergraduates enrolled in this course will be expected to complete the same additional requirements as graduate students who are enrolled in CSCI 2230.
 
 ### Prerequisites
 
-The official prerequisite **courses** for CSCI 1230 are CSCI 0150/0160, CSCI 0170/0180, or CSCI 0190.
+The official **course** prerequisite for CSCI 1230 is to have completed a CS intro sequence: CSCI 0150 + 0200, 0170 + 0200, 0111 + 0112 + 0200, or 0190.
 
-CSCI 0330, because it uses C, can be helpful but not strictly required. CSCI 0320, for its software design, is additionally helpful but not required. Some familiarity with C++ will be helpful, but help sessions, gear ups, and extra support will be offered to students who don't have any prior C++ experience. Most students take the class without any prior C++ experience. Some knowledge of basic linear algebra (i.e., vector and matrix multiplication, dot and cross products) may also be helpful, but none is required or assumed.
+CSCI 0330, because it uses C, can be helpful but not strictly required. CSCI 0320, for its software design, is additionally helpful but not required. Some familiarity with C++ will be helpful, but help sessions, gear ups, and extra support will be offered to students who don't have any prior C++ experience. Most students take the class without any prior C++ experience. Some knowledge of basic linear algebra (i.e., vector and matrix multiplication, dot and cross products) is also helpful, but none is required or assumed; we will cover all the basics that are needed during class.
 
 There are some **software and infrastructure prerequisites** as well:
 * You need to be able to access Github, esp. Github classroom.
-* You need to be able to compile and run the course projects on your own computer, or have a *very*
-fast internet connection to the department machines. Most laptop computers post-2015 should have no problem with compiling and running projects. More specifically, we use OpenGL 4.0 for many of our projects, which is supported on Intel, AMD, and NVIDIA graphics hardware that most common computers have newer than 2012.
-* You need at least 3GB of space on your machine to dedicate to CSCI 1230.
+* You need to be able to compile and run the course projects on your own computer, or have a *very* fast internet connection to the department machines. Most laptop computers post-2015 should have no problem with compiling and running projects. More specifically, we use OpenGL 4.0 for many of our projects, which is supported on Intel, AMD, and NVIDIA graphics hardware that most common computers have newer than 2012.
+* You need a lot of free space on your machine to dedicate to  CSCI 1230. Qt Creator (the IDE we use) requires ~6GB, and the C++ developer tools for your OS may require considerably more than that (e.g. on macOS, the Xcode developer tools use about 30GB of disk space).
 
 ### Learning Goals
 
