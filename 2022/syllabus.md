@@ -172,15 +172,13 @@ A strong correlation has been shown between those who do well in CSCI 1230 and t
 
 We don’t have nearly enough lecture time to teach everything we wish we could. The lecture topics have been carefully selected by Daniel and the TAs, taking into account the feedback we receive from former CSCI 1230 students. If you feel like you aren’t getting enough out of the lectures, we encourage you to talk to Daniel or the TAs rather than abandoning them altogether. We are constantly revising CSCI 1230, and we take all feedback under serious consideration during our weekly staff meetings.
 
-Sick? Please do not come to lecture or use public computer labs if you have a communicable illness (like the flu). Ask a friend to fill you in on details from class, and review the lecture slides online. We would like to keep everyone in good health.
-
 ### Help Sessions
 
-There will be several CS1230 help sessions throughout the year. There are two on C++, another on linear algebra, and a third on the shader programming language GLSL. Dates and times will be on the course calendar. If you feel that a particular help session would be useful to clarify a topic, you may contact the Head TA (at cs1230headtas@lists.brown.edu) to discuss your proposal.
+There will be several CS1230 help sessions throughout the year: on C++ programming, linear algebra, shader pogramming in GLSL, etc. Dates and times will be on the course calendar. If you feel that a particular help session would be useful to clarify a topic, you may contact the Head TA (at cs1230headtas@lists.brown.edu) to discuss your proposal.
 
 ### Programming
 
-Because graphics work can be computationally intensive, CSCI 1230 is one of the few remaining courses at Brown to use C++, and the only remaining course to teach it. In computer graphics, the performance implications of managed language features such as garbage collection and memory bounds-checking can be unacceptably high. We promote object oriented coding practices to ensure maintainability and extensibility as your graphics system grows. One of the key techniques you’ll take away from CSCI 1230 is the ability to carefully balance raw performance with excellent code maintainability and style.
+Because graphics work can be computationally intensive, CSCI 1230 is one of the few remaining courses at Brown to use C++. In computer graphics, the performance implications of managed language features such as garbage collection and memory bounds-checking can be unacceptably high. One of the key techniques you’ll take away from CSCI 1230 is the ability to balance raw performance with excellent code maintainability and style.
 
 #### Toolkit 
 
@@ -194,11 +192,11 @@ For your convenience, Qt Creator is installed in several locations throughout th
 * All department Windows machines
 * All CIS cluster Windows machines on the second floor of the CIT
 
-You may also install the Qt SDK on your personal computer to work from home. Regardless of your choice of development platform, you must ensure that your code compiles and runs properly on the Linux machines in the Sun Lab.
+You may also install the Qt SDK on your personal computer to work from home. Regardless of your choice of development platform, you must ensure that your code compiles in our course Docker container (more info on this to follow).
 
 #### Software Engineering
 
-We expect that you have all had a thorough grounding in the principles of good software design by now. Most of the assignments are relatively small, and shouldn't require hours of design work. We care mostly about the functionality, stability, and speed of your implementation; however, we will also grade partially on code quality. Good engineering practices early on will greatly help you on future assignments.
+We expect that you have all had a thorough grounding in the principles of good software design by now. We care mostly about the functionality, stability, and speed of your implementation; however, we will also grade partially on code quality. Good engineering practices early on will greatly help you on future assignments.
 
 Basic engineering principles by which you should abide:
 * Avoid repeated code by thinking about good class design in advance.
@@ -207,35 +205,34 @@ Basic engineering principles by which you should abide:
 
 #### Don't know C++?
 
-Students are able to take the course without knowing C++. However, these students will need to spend extra time at the beginning of the course learning C++. The Intro to C++, Intermediate C++, and Advanced C++ help session slides are available on the CSCI 1230 documents page. These help sessions will be run by the TAs at the start of the semester. See section 3 above. TAs are also ready and willing to help students with C++ questions at office hours. Aside from the help sessions and TA help, the course has no special provisions for students learning C++. Programs will be due at the same time for everyone and will be graded on the same scale. 
+Students are able to take the course without knowing C++; in fact, we assume most students will not know it in advance. However, these students will need to spend extra time at the beginning of the course learning C++. There will be multiple TA-run help sessions throughout the semester on C++ programming. TAs are also ready and willing to help students with C++ questions at office hours. Aside from the help sessions and TA help, the course has no special provisions for students learning C++. Programs will be due at the same time for everyone and will be graded on the same scale. 
 
 ### Assignments
 
 #### Projects
 
-##### Brush
-The first assignment is designed to get your feet wet in the world of graphics programming. In this assignment, you will be implementing various different airbrushes, similar to ones found in many commercial painting programs such as Adobe Photoshop. This assignment should give you a good introduction to the kind of C++ programming you will be doing in this course, as well as gently familiarize you with Qt user interfaces.
+There are six programming projects, divided into three units, as well as an open-ended final project. The final project can be completed in groups; all remaining projects must be done individually.
 
-##### Shapes
-This assignment covers one of the earliest steps in the 3D rendering pipeline: object tessellation. For this assignment you will be constructing simple 3D objects (e.g., spheres and cylinders) out of triangles and then displaying them on the screen. All you need to do for this assignment is compute the necessary triangles; our stencil code handles the task of drawing them for you.
+##### Unit 1: Raster
+In this unit, you'll explore how to create images by directly manipulating grids of pixels. This unit is divided into two assignments:
+* **Brush**: In this assignment, you will be implementing various different airbrushes, similar to ones found in many commercial painting programs such as Adobe Photoshop. This assignment should give you a good introduction to the kind of C++ programming you will be doing in this course, as well as gently familiarize you with Qt user interfaces.
+* **Filter**: Ever wonder how programs like Photoshop generate all those cool special effects? This assignment represents a subset of the functionality that photo editing programs have. It is designed to teach you the basics of image processing and anti-aliasing. You will implement various image manipulation operations like edge detection, blurring, and image scaling.
 
-##### Intersect
-In this assignment, you will begin to explore an algorithm for drawing (or 'rendering') the shapes you tessellated in the Shapes assignment. Specifically, you will compute intersections between these objects and rays (of light). You will then use this code to create somewhat photorealistic images of scenes.
+##### Unit 2: Ray
+In this unit, you'll create a program which can take a description of a 3D scene and produce an image depicting that scene (a process known as "rendering"). You'll use an algorithm called "raytracing," which loosely simulates the propagation of rays of light through a scene. This unit is divided into two assignments:
+* **Ray 1**: In this assignment, you'll learn how to set up a "virtual camera" from which to render images of a 3D scene, how to trace rays from the camera into the scene, and how to determine what object in the scene each ray can "see."
+* **Ray 2**: In this assignment, you'll extend your work from Ray 1 to also compute the interactions of light sources with objects in the scene, including effects such as shadows and mirror reflections.
 
-##### Ray
-Ray tracing is a method for rendering realistic pictures of geometric objects. It uses available information about lighting and optical effects like light reflection and refraction. It may sound complicated, but it is a relatively simple technique, and the cool pictures you get are well worth it! You will essentially be taking your code from Intersect, adding in the ability to illuminate the objects, and applying textures from 2D images.
-
-##### Sceneview
-In this assignment, you will dive into real-time graphics programming with OpenGL and create an interactive viewer for the 3D scenes you rendered in the Intersect and Ray assignments. This assignment builds upon the code from Shapes, Intersect, Ray, and from the Camtrans lab.
-
-##### Filter
-Ever wonder how programs like Photoshop generate all those cool special effects? This assignment represents a subset of the functionality that photo editing programs have. It is designed to teach you the basics of image processing and anti-aliasing. You will implement various image manipulation operations like edge detection, blurring, and image scaling.
+##### Unit 3: Realtime
+Raytracing is cool, but it can be a bit slow to render an image. In this unit, you'll create a program which lets you render a 3D scene at real-time frame rates, so that you can explore the scene interactively. You'll accomplish this by writing code that uses OpenGL, an industry-standard library for programming graphics processing units, or GPUs. This unit is divided into two assignments:
+* **Realtime 1**: In this assignment, you'll learn how to represent various types of 3D shapes as triangle meshes (the representation that OpenGL expects), how to send this data from the CPU to the GPU, and how to set up a virtual camera to render shapes from different viewpoints.
+* **Realtime 2**: In this assignment, you'll build upon your work in Realtime 1 by computing per-pixel light/surface interactions using GLSL. You'll also  implement interactive camera movement, as well as postprocessing effects to make your rendered scene look extra fancy :) 
 
 ##### Final Project
-Lastly, you will be creating a final project. The final project can be anything you want that includes one or more of the concepts we covered during the semester, plus a technique you research on your own. Examples include a short game, a cool OpenGL shader program, a demo scene, an implementation of an advanced rendering system, or some combination of the above! Note you're not restricted to these ideas alone. We’ll cover the final project in greater detail in late November.
+Lastly, you will be creating a final project. The final project can be anything you want that includes one or more of the concepts we covered during the semester, plus a technique you research on your own. Examples include a short game, a cool OpenGL shader program, a demo scene, an implementation of an advanced rendering system, or some combination of the above! Note you're not restricted to these ideas alone. We’ll cover the final project in greater detail later in the semester.
 
 #### Labs
-In addition to homework assignments, a series of labs will provide hands-on experience with various graphics programming topics and tools. The concepts you learn in lab will prove quite useful for implementing your final project (see section above).
+In addition to the projects, a series of labs will provide hands-on experience with various graphics programming topics and tools. Each labe is designed such that the code you write will be helpful for one of the programming projects (or for the final project).
 
 #### Algos
 
