@@ -71,7 +71,7 @@ Students who complete this course will:
 * Know how to process images by applying filters and transformations while minimizing artifacts such as aliasing (a.k.a. “jaggies”).
 * Understand the fundamentals of human color perception, the abilities of displays to reproduce colors, and the impact of color choice on viewer experience.
 
-The full list of CSCI 1230 topics can be found on the "class" page of the website (https://csci1230.graphics/lectures).
+The full list of CSCI 1230 topics can be found on the course website at (https://csci1230.graphics/lectures).
 
 ### Work Expectations
 
