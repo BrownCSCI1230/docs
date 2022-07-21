@@ -236,17 +236,15 @@ In addition to the projects, a series of labs will provide hands-on experience w
 
 #### Algos
 
-##### Algorithm worksheets
-
-Each programming assignment will be accompanied by a written algorithm (“algo”) assignment to get you started thinking about how to approach the assignment mathematically and algorithmically. These hand-ins will contribute 10% of the final grade. There is also an algorithm assignment for the Camtrans lab. See the assignment handouts for more details and exceptions. Algorithm worksheets are returned the same day as the deadline so you can begin coding with confidence right away!
-
-Algorithm answers should be clear and succinct. Don't just start writing. Think first, and then write up the clearest answer you can. If we ask you to describe a section of the project’s algorithm, you should probably go with a description, or pseudo code, rather than actual C++. That said, some incredibly simple parts, such as loops, may be easier to read in actual code.
-
-##### Tips for Algorithm worksheets
+Each programming assignment will be accompanied by a written algorithm (“algo”) assignment to get you started thinking about how to approach the assignment mathematically and algorithmically. Algo answers should be clear and succinct. Don't just start writing. Think first, and then write up the clearest answer you can. If we ask you to describe a section of the project’s algorithm, you should probably go with a description, or pseudo code, rather than actual C++.
 
 When you think you’re done with the algorithm worksheet, begin coding immediately while it’s still fresh in your mind. Don’t wait for the solutions to begin coding. The solutions to the algorithm worksheets are designed to help you to debug your program, not to help you write the code for the first time.
 
-Take it seriously! Expect to spend between 1 to 2 hours on each algorithm worksheet. Late algorithm worksheets aren’t accepted, so be sure to turn them in on time.
+Take it seriously! Expect to spend between 1 to 2 hours on each algorithm worksheet.
+
+##### Algo grading
+
+Algos make up 10% of your final grade. They are graded on completion, with a small amount of extra credit awarded for correct answers. Algorithm worksheets are returned the same day as the deadline so you can begin coding with confidence right away. Because we release the solutions immediate after the deadline, ***late algo submissions are not accepted*** (so be sure to turn them in on time!)
 
 #### Optimization
 
@@ -256,7 +254,7 @@ While we don’t expect you to go overboard with optimization, we do expect your
 
 **Orders of Magnitude**: Be aware of the differences (especially with regard to O(n) performance and memory overhead) between different data structures. We’ll dock points for big memory leaks and things you obviously should have factored out of your loops.
 
-**Accuracy**: Above all, don’t sacrifice accuracy for performance! You will not lose points for an efficient, yet accurate, program. If you ever have a question about optimization, ask a TA on hours.
+**Accuracy**: Above all, don’t sacrifice accuracy for performance!
 
 #### Workload
 
@@ -302,26 +300,24 @@ Keep in mind that floating point numbers have limited precision, so floating poi
 
 #### Settings
 
-The support code defines a global object named settings to hold values entered through the GUI. This object is automatically updated when things are changed in the GUI, though the GUI is not updated when the settings object is changed programmatically.
+The support code defines a global object named `settings` to hold values entered through the GUI. This object is automatically updated when things are changed in the GUI, though the GUI is not updated when the settings object is changed programmatically.
 
 
 ### Grading
 
 Your final grade will be determined based on the programming assignments, algorithm hand-ins, and labs.
 
-You must complete all the assignments (including 11 out of 12 labs) to pass the course. As in all other computer science courses at Brown, you must hand in a working solution for all programming assignments in order to be eligible for a passing grade. Please note the adjective working: if you receive a grade of NC (no credit) on any of the assignments (before late penalties are deducted), you will be expected to revise your program and hand in an acceptable version if you want to pass the course. Also note that the reverse implication is not intended: handing in all assignments does not guarantee that you will pass the course; your accumulated points will determine that.
-
-Daniel doesn't use a curve, and would be delighted to hand out As to the entire class. Indeed, the majority of students traditionally have worked hard and gotten As. In borderline cases (e.g. 89-91), Daniel will take attendance and class participation into account, as well as your perceived effort and dedication. We all love to both give and receive good grades, but do understand that merely working hard doesn’t guarantee you an A. Your grade will reflect primarily upon the quality, correctness, and timeliness of your hand-ins.
+Daniel doesn't use a curve and would be delighted to hand out As to the entire class. Indeed, the majority of students traditionally have worked hard and gotten As. In borderline cases (e.g. 89-91), Daniel will take attendance and class participation into account, as well as your perceived effort and dedication. We all love to both give and receive good grades, but do understand that merely working hard doesn’t guarantee you an A. Your grade will reflect primarily upon the quality, correctness, and timeliness of your hand-ins.
 
 #### Extra Credit
 
-There is ample room for bells, whistles, and other credit-garnering efforts on the part of ambitious programmers. You are invited to get creative, as long as it does not make you late. Rewarding bells and whistles with extra credit is left to the discretion of the TAs, so we strongly encourage you to discuss your creative plans with a TA before you forge ahead to make sure that they are considered appropriate for credit. Also, keep in mind that bells and whistles should only be done after the standard assignment is fully working since they won't count in lieu of missing or buggy features! CSCI 1230 offers many opportunities for extra credit: if you finish a program a little early, seek appropriate inspiration and add something fancy.
+There is ample room for bells, whistles, and other credit-garnering efforts on the part of ambitious programmers. You are invited to get creative, as long as it does not make you late. Rewarding bells and whistles with extra credit is left to the discretion of the course staff, so we strongly encourage you to discuss your creative plans with a TA before you forge ahead to make sure that they are considered appropriate for credit. Also, keep in mind that bells and whistles should only be done after the standard assignment is fully working since they won't count in lieu of missing or buggy features! CSCI 1230 offers many opportunities for extra credit: if you finish a program a little early, seek appropriate inspiration and add something fancy.
 
 #### Regrade Requests
 
 Sometimes you may feel that you have been graded unfairly. If you ever feel this way, please request a regrade on Gradescope. Once your request is evaluated, you will be provided with an explanation and possibly points back. If you are not satisfied with the regrade decision please talk to the Head TA. If there is still a problem, Daniel is the final word in grading and will be happy to hear what you have to say.
 
-If you decide to challenge a grade, you must do so within two weeks of its receipt. In the past, students have tried to get points back on all of their assignments in the last week of classes. Our first priority is fairness, both to us and to you! You may ask questions about your grades at any time. You can’t change the contents of your hand-in after your grade is returned. If you discover that you handed in the wrong work after you get your grade back, or if you fix your program after getting its grade back, we are unable to take that “external” content into account for grading purposes.
+If you decide to challenge a grade, you must do so ***within one week of its receipt***. In the past, students have tried to get points back on all of their assignments in the last week of classes. Our first priority is fairness, both to us and to you! You may ask questions about your grades at any time. You can’t change the contents of your hand-in after your grade is returned. If you discover that you handed in the wrong work after you get your grade back, or if you fix your program after getting its grade back, we are unable to take that “external” content into account for grading purposes.
 
 
 ### Getting Your Questions Answered
@@ -334,11 +330,11 @@ Thank you for helping us comply with departmental and university regulations (wh
 
 #### TA Hours
 
-The TA hour listing is available from the CS1230 home page. We will make every effort to maintain these hours without exception. On rare occasion, we might need to cancel or reschedule a TA hour session. When TA hours are rescheduled or exceptions are made, these will be announced on the CS1230 web page.
+The TA hour listing is available from the CS1230 home page. We will make every effort to maintain these hours without exception. On rare occasion, we might need to cancel or reschedule a TA hour session. When TA hours are rescheduled or exceptions are made, these will be announced on the CS1230 Edstem board.
 
-TA hours are often very busy, and many times there will be a waiting list on the board. You may sign up on the waiting list when TA hours are in progress, but not before TA hours start. The TA will erase the waiting list at the start of TA hours each day. If the waiting list is very long and the end of TA hours is approaching, the TA may close the waiting list so that all people on the waiting list can be helped before TA hours are over. You can help alleviate this problem of crowded hours by simply starting early. While there is no bonus for doing this, starting early often means finishing in less time, since you won't have to wait as long to get your questions answered.
+TA hours are often very busy, and many times there will be a waiting list. You may sign up on the waiting list when TA hours are in progress, but not before TA hours start. The TA will clear the waiting list at the start of TA hours each day. If the waiting list is very long and the end of TA hours is approaching, the TA may close the waiting list so that all people on the waiting list can be helped before TA hours are over. You can help alleviate this problem of crowded hours by simply starting early. While there is no bonus for doing this, starting early often means finishing in less time, since you won't have to wait as long to get your questions answered.
 
-Before asking a TA for help, please check the lecture slides to see if your question is answered there. If you still do not understand something, you are welcome to ask questions and clarifications about the lecture slides.
+Before asking a TA for help, please double-check the lecture slides and the assignment handout to see if your question is answered there. If you still do not understand something, you are welcome to ask questions and clarifications about the lecture slides.
 
 Please note that taking any source code (or a TA’s modifications to your source code) away from TA hours is a violation of the CS1230 collaboration policy. The TAs are not here to debug your code, but rather to clarify your understanding of the concepts taught in class and used in the assignments.
 
@@ -352,11 +348,10 @@ Questions related to coding the projects or concepts explained in class should b
 
 The CS1230 web page, which you are responsible for checking and reading daily, is located at https://csci1230.graphics. It is a useful source of online course material. A wide variety of things like lectures, handouts, the syllabus, TA hours, and software guides can be found on this site.
 
-You are responsible for checking the web site frequently, as we will be updating it with important information as the semester progresses. Most updates to the website will be accompanied by an announcement to the course mailing list and Piazza.
+You are responsible for checking the web site frequently, as we will be updating it with important information as the semester progresses. Most updates to the website will be accompanied by an announcement to Edstem.
 
 ### Finally, welcome!
 
-As we mentioned before, CSCI 1230 is a continually evolving course. As such, we are bound to have our own 'bugs' hiding in the corners. Please read everything we hand out very carefully. If there is something which you do not understand, or which is not stated very clearly, please let us know so we can fix it right away.
-This applies to the material discussed in lecture as well. Give us constructive criticism on all aspects of the course. The more feedback there is, the better we can make this course for you as the semester progresses, and the better we can make it for the next twenty-five years of Brown computer graphics students!
+As we mentioned before, CSCI 1230 is a continually evolving course. As such, we are bound to have our own 'bugs' hiding in the corners. Please read everything we hand out very carefully. If there is something which you do not understand, or which is not stated very clearly, please let us know so we can fix it right away. This applies to the material discussed in lecture as well. Give us constructive criticism on all aspects of the course. The more feedback there is, the better we can make this course for you as the semester progresses, and the better we can make it for the next twenty-five years of Brown computer graphics students!
 
 We just went through a lot of heavy talk. Please take all of it seriously, but also remember that we're not trying to scare you. We are here to help you! We're just clearing preliminaries and establishing the ground rules. With that done, we hope you'll have as much fun as we did in CSCI 1230.
