@@ -28,6 +28,7 @@ Welcome to CSCI 1230, the longest-running computer graphics course in the known 
   * [Grading](#grading-1)
   * [Getting Help](#getting-help)
   * [Welcome!](#finally-welcome)
+* [Collaboration Policy](#collaboration-policy): Information about permitted and prohibited forms of collaboration in this course.
 
 ---
 
@@ -366,3 +367,11 @@ Questions related to coding the projects or concepts explained in class should b
 As we mentioned before, CSCI 1230 is a continually evolving course. As such, we are bound to have our own 'bugs' hiding in the corners. Please read everything we hand out very carefully. If there is something which you do not understand, or which is not stated very clearly, please let us know so we can fix it right away. This applies to the material discussed in lecture as well. Give us constructive criticism on all aspects of the course. The more feedback there is, the better we can make this course for you as the semester progresses, and the better we can make it for the next twenty-five years of Brown computer graphics students!
 
 We just went through a lot of heavy talk. Please take all of it seriously, but also remember that we're not trying to scare you. We are here to help you! We're just clearing preliminaries and establishing the ground rules. With that done, we hope you'll have as much fun as we did in CSCI 1230.
+
+---
+
+## Collaboration Policy
+
+Projects are more fun and interesting than exams, right? We think so, too, which is why this course is 100% project-based: your grade is based solely on your labs, programming projects, and algo assignments. Because the course has no exams, to fairly evaluate you, we need to be sure that your assignments are your own work. This is required by Brown's academic code: “Academic achievement is evaluated on the basis of ***work that a student produces independently***. A student who obtains credit for work, words, or ideas that are not the products of his or her own effort is dishonest and in violation of Brown’s Academic Code.”
+
+However, we also acknowledge that collaborating with your fellow students is part of a rich and rewarding learning experience. We don't want you to feel like you can't talk to other students because you're afraid of being "dishonest" or "in violation of Brown's Academic Code." That's where this document comes in: here, we explicitly clarify all the permitted and not permitted forms of collaboration in this course. The tl;dr is that you are going to have to do most of the heavy thinking/working on your own...but there are still plenty of allowable ways to get help from (and to help out) your fellow students.
