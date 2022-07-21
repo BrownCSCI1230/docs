@@ -25,7 +25,7 @@ Welcome to CSCI 1230, the longest-running computer graphics course in the known 
   * [Assignments](#assignments)
   * [Support Code Tips](#support-code-tips)
   * [Grading](#grading-1)
-  * [Getting Your Questions Answered](#getting-your-questions-answered)
+  * [Getting Help](#getting-help)
   * [Welcome!](#finally-welcome)
 
 ---
