@@ -342,13 +342,11 @@ Thank you for helping us comply with departmental and university regulations (wh
 
 #### TA Hours
 
-The TA hour listing is available from the CS1230 home page. We will make every effort to maintain these hours without exception. On rare occasion, we might need to cancel or reschedule a TA hour session. When TA hours are rescheduled or exceptions are made, these will be announced on the CS1230 Edstem board.
+The schedule of TA hours is available on the course website. We will make every effort to maintain these hours without exception. On rare occasion, we might need to cancel or reschedule a TA hour session. When TA hours are rescheduled or exceptions are made, these will be announced on Edstem (which should auto-generate an email announcement to all students).
 
 TA hours are often very busy, and many times there will be a waiting list. You may sign up on the waiting list when TA hours are in progress, but not before TA hours start. The TA will clear the waiting list at the start of TA hours each day. If the waiting list is very long and the end of TA hours is approaching, the TA may close the waiting list so that all people on the waiting list can be helped before TA hours are over. You can help alleviate this problem of crowded hours by simply starting early. While there is no bonus for doing this, starting early often means finishing in less time, since you won't have to wait as long to get your questions answered.
 
-Before asking a TA for help, please double-check the lecture slides and the assignment handout to see if your question is answered there. If you still do not understand something, you are welcome to ask questions and clarifications about the lecture slides.
-
-Please note that taking any source code (or a TA’s modifications to your source code) away from TA hours is a violation of the CS1230 collaboration policy. The TAs are not here to debug your code, but rather to clarify your understanding of the concepts taught in class and used in the assignments.
+Please note that taking any source code (or a TA’s modifications to your source code) away from TA hours is a violation of our collaboration policy. The TAs are not here to debug your code, but rather to clarify your understanding of the concepts taught in class and used in the assignments.
 
 #### Sending mail to the TAs
 
