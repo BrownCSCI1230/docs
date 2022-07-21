@@ -20,6 +20,7 @@ Welcome to CSCI 1230, the longest-running computer graphics course in the known 
 * [CSCI 2230 and CSCI 1234 Missive](#csci-2230-and-csci-1234-missive): Information for students interested in registering for CSCI 2230 or CSCI 1234.
 * [Student Guide](#student-guide): More in-depth details about course contents, policies, computing infrastructure, and advice.
   * [Lectures](#lectures)
+  * [Public Health](#public-health)
   * [Help Sessions](#help-sessions)
   * [Programming](#programming)
   * [Assignments](#assignments)
@@ -171,6 +172,12 @@ This section provides more in-depth information on the contents of the course an
 A strong correlation has been shown between those who do well in CSCI 1230 and those who come to class. Lectures are enriched by class discussion, live demos and other content beyond the slides themselves. We strongly encourage class attendance.
 
 We don’t have nearly enough lecture time to teach everything we wish we could. The lecture topics have been carefully selected by Daniel and the TAs, taking into account the feedback we receive from former CSCI 1230 students. If you feel like you aren’t getting enough out of the lectures, we encourage you to talk to Daniel or the TAs rather than abandoning them altogether. We are constantly revising CSCI 1230, and we take all feedback under serious consideration during our weekly staff meetings.
+
+### Public Health
+
+Unless otherwise announced, masks are required in lecture, labs, TA hours, and the professor's office hours.
+
+Feeling sick? Please do not come to lecture or use public computer labs. Ask a friend to fill you in on details from class, and review the lecture slides + recording online. We would like to keep everyone in good health. 
 
 ### Help Sessions
 
