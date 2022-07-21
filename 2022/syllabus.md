@@ -320,13 +320,25 @@ Sometimes you may feel that you have been graded unfairly. If you ever feel this
 If you decide to challenge a grade, you must do so ***within one week of its receipt***. In the past, students have tried to get points back on all of their assignments in the last week of classes. Our first priority is fairness, both to us and to you! You may ask questions about your grades at any time. You can’t change the contents of your hand-in after your grade is returned. If you discover that you handed in the wrong work after you get your grade back, or if you fix your program after getting its grade back, we are unable to take that “external” content into account for grading purposes.
 
 
-### Getting Your Questions Answered
+### Getting Help
 
-For most course-related questions, you should ask a TA during TA hours.
+CS 1230 is a challenging course, both conceptually and practically: there are new ideas to wrap your head around, and the programming work expected of you has a non-trivial learning curve (especially if you've never seen C++ before). Because of this, it is completely normal to struggle on some of the assignments! We're here to help :) This section has more information about how to ask for course-related help when you need it. 
 
+Before we get started, keep in mind: your TAs are all students, too. They have their own courses and other obligations; being a TA is just one of their many time commitments. TA time is a finite resource, so please be respectful of it. Before asking for TA help, make a good faith effort to solve a problem on your own (or seek help from a friend/classmate, within the boundaries of our collaboration policy). And always remember: getting help from a TA is a privilege, not a right to which you are entitled. "I wasn't seen by a TA" is not a valid reason for handing in work late. At the end of the day, you and you alone are responsible for your performance in the course.
+
+#### Where to go to get your questions answered
+
+Your first stop when you have a question should be the course web page: https://csci1230.graphics. It is a useful source of online course material. A wide variety of things like lectures, handouts, the syllabus, TA hours, and software guides can be found on this site.
+You are responsible for checking the web site frequently, as we will be updating it with important information as the semester progresses. Most updates to the website will be accompanied by an announcement to Edstem.
+
+If you can't find the answer to your question on the course website, you should next check Edstem: https://edstem.org/us/courses/12828.
+On Edstem, always first check if someone has asked a similar to question to the one you have--with luck, it might already have an answer.
+If you've confirmed that no one else has asked (a variant of) your question, then you can go ahead and make a new post.
+There are set times throughout the week during which a TA will be monitoring Edstem and answering questions; these can be found on the course website. Outside of these times, you should not expect a prompt response from a TA. However, your fellow students may be monitoring Edstem as well, and they can be a great resource! We encourage you to post answers to questions on Edstem; your record of helping out your fellow students here is something we factor in when determining final grades for borderline cases.
+
+For more involved course-related questions, you can come to TA hours; the schedule for these is also on the course website.
 You may not ask TAs course-related questions when they are not on hours. All TAs are prohibited by department and university policy from answering course-related questions when not on official TA hours. TAs may answer general administrative questions when not on TA hours.
-
-Thank you for helping us comply with departmental and university regulations (which reflect applicable labor laws). If you have any questions about this policy, please contact mta@cs.brown.edu.
+Thank you for helping us comply with departmental and university regulations (which reflect applicable federal and state labor laws). If you have any questions about this policy, please contact mta@cs.brown.edu.
 
 #### TA Hours
 
@@ -342,13 +354,7 @@ Please note that taking any source code (or a TA’s modifications to your sourc
 
 If there is a problem with an assignment that affects the entire class (such as a bug in the support code), you may e-mail the TAs at cs1230tas@lists.brown.edu. TAs will respond to course-related e-mail during their office hours. For administrative questions or if there is a problem with a TA, you can e-mail the head TA at cs1230headtas@lists.brown.edu.
 
-Questions related to coding the projects or concepts explained in class should be asked at TA hours and TA help sessions. We are not able to respond to these types of questions via e-mail.
-
-#### Course webpage
-
-The CS1230 web page, which you are responsible for checking and reading daily, is located at https://csci1230.graphics. It is a useful source of online course material. A wide variety of things like lectures, handouts, the syllabus, TA hours, and software guides can be found on this site.
-
-You are responsible for checking the web site frequently, as we will be updating it with important information as the semester progresses. Most updates to the website will be accompanied by an announcement to Edstem.
+Questions related to coding the projects or concepts explained in class should be asked at TA hours or TA help sessions, or on Edstem. We are not able to respond to these types of questions via e-mail.
 
 ### Finally, welcome!
 
