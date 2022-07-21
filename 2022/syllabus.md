@@ -142,23 +142,23 @@ We expect everyone to complete the course on time. However, we certainly underst
 
 ## CSCI 2230 and CSCI 1234 Missive
 
-Here, we provide more detailed information to students who are attempting to earn an additional half-credit while taking CSCI 1230. CSCI 1234 is **not** a separate course and cannot be taken alone. If you are a graduate student and wish to earn 2000 level grad credit, you will also need to follow these guidelines.
-
-### Registration
-
-You must register for CSCI 1230 **and** CSCI 1234 to earn the half-credit or grad credit (graduate students may sign up with the HTA as to not incurr additional fees). If you are uncertain about attempting this, we strongly encourage you to register for both anyway. You can always drop the lab course later in the semester if you decide the workload becomes untenable. If you have any questions, feel free to email cs1230tas@lists.brown.edu.
+Here, we provide some more detailed information for students interested in CSCI 2230 or CSCI 1234. As a reminder:
+* CSCI 2230 is for graduate students who wish to earn 2000-level credit
+* CSCI 1234 is for undergraduate students who want a bigger challenge / want to use CSCI 1230 as their capstone.
 
 ### Assignment Enhancements
 
-For each of the 6 projects, you will be expected to complete additional features in order to pass the lab course. We've worked hard to ensure that these enhancements are not just more work, but that they also will increase your understanding of graphics programming. This does not mean they are easy and/or quick to do.  In a couple of cases you will be able to use your creativity to implement something of your own choosing. Do not assume what you implement will count towards the half credit requirement! Check with a TA during hours or email them before handing in. As a group, they have all implemented the enhancements and should be able to help answer any questions. 
+For each of the 6 projects, you will be expected to complete additional features. We've worked hard to ensure that these enhancements are not just more work, but that they also will increase your understanding of graphics programming. This does not mean they are easy and/or quick to do.  In a couple of cases, you will be able to use your creativity to implement something of your own choosing. Do not assume what you implement will count towards the extra features requirement! Check with a TA during hours or email them before handing in. As a group, they have all implemented the enhancements and should be able to help answer any questions.
+
+Students who are not enrolled in CSCI 2230 or CSCI 1234 are also welcome to attempt these enhancements; for such students, successful implementations of extra features will count as extra credit.
 
 ### Time Management
 
 We tell everyone this, but for meeting these requirements, you will really need to start each project as soon as it is released. We aren't joking or exagerating in the slightest. If you find the assignments easy, we hope you will apply to be a CSCI 1230 TA next year!
 
-### Further Questions?
+### Registration
 
-As always please, email the TAs if you have any questions on half credit requirements.
+Graduate students should enroll in CSCI 2230. Undergraduates should enroll in one of the two sections of CSCI 1230 **and** in CSCI 1234. If you like the idea of challenging yourself and diving deeper into the material but aren't sure about the time commitment, you can register for CSCI 1234 S/NC (even if you've registered for CSCI 1230 on letter-graded basis). However, students who wish to use CSCI 1230 for their capstone **must** enroll in CSCI 1234 for a letter grade.
 
 ---
 
