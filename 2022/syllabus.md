@@ -100,11 +100,11 @@ Your CSCI 1230 grade consists of 1 tiny written homework, 6 rigorously graded pr
 
 Daniel doesn't use a curve and would be delighted to hand out As to the entire class. Indeed, the majority of students traditionally have worked hard and gotten As. In borderline cases (e.g. 89-91), Daniel will take attendance and class participation into account, as well as your perceived effort and dedication.
 
-#### Extra Credit
+### Extra Credit
 
 There is ample room for bells, whistles, and other credit-garnering efforts on the part of ambitious programmers. You are invited to get creative, as long as it does not make you late. Rewarding bells and whistles with extra credit is left to the discretion of the course staff, so we strongly encourage you to discuss your creative plans with a TA before you forge ahead to make sure that they are considered appropriate for credit. If you are not enrolled in CSCI 2230 or CSCI 1234, completing any of the enhancements required for those courses will count as extra credit for you.
 
-#### Regrade Requests
+### Regrade Requests
 
 Sometimes you may feel that you have been graded unfairly. If you ever feel this way, please request a regrade on Gradescope. Once your request is evaluated, you will be provided with an explanation and possibly points back. If you are not satisfied with the regrade decision please talk to the Head TA. If there is still a problem, Daniel is the final word in grading and will be happy to hear what you have to say.
 
