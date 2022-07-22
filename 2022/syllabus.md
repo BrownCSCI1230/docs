@@ -2,38 +2,7 @@
 
 Welcome to CSCI 1230, the longest-running computer graphics course in the known universe! This document will get you started with the course.
 
-## Table of Contents
-
-* [Course Missive](#course-missive): The essential information about the course, its content, workload, and policies.
-  * [Course Staff & Essential Info](#course-staff--essential-info)
-  * [Prerequisites](#prerequisites)
-  * [Learning Goals](#learning-goals)
-  * [Work Expectations](#work-expectations)
-  * [Grading](#grading)
-  * [Materials](#materials)
-  * [Collaboration Policy](#collaboration-policy)
-  * [Late Policy](#late-policy)
-  * [Diversity and Inclusion](#diversity-and-inclusion)
-  * [Accommodations](#accommodations)
-  * [Mental Health](#mental-health)
-  * [Incomplete Policy](#incomplete-policy)
-* [CSCI 2230 and CSCI 1234 Missive](#csci-2230-and-csci-1234-missive): Information for students interested in registering for CSCI 2230 or CSCI 1234.
-* [Student Guide](#student-guide): More in-depth details about course contents, policies, computing infrastructure, and advice.
-  * [Lectures](#lectures)
-  * [Public Health](#public-health)
-  * [Help Sessions](#help-sessions)
-  * [Programming](#programming)
-  * [Assignments](#assignments)
-  * [Grading](#grading-1)
-  * [Getting Help](#getting-help)
-  * [Welcome!](#finally-welcome)
-* [Collaboration Policy](#collaboration-policy): Information about permitted and prohibited forms of collaboration in this course.
-
----
-
-## Course Missive
-
-### Course Staff & Essential Info
+## Course Staff & Essential Info
 * Professor: Daniel Ritchie (dritchi1)
 * Head TAs: Zack Cheng (zcheng12), Logan Dooley (ldooley)
 * UTAs: Yiwen Chen (ychen485), Adrian Chang (achang57), Jianxin Gu (jgu26), Nick Huang (yhuan170), Helen Huang (hhuang65), Mehek Jethani (mjethani), Marc Mapeke (mmapeke), Derick Toth (dtoth1), Sean Zhan (xzhan2), Anna Zhao (azhao26)
@@ -50,7 +19,7 @@ For those confused by the different choices for this course on C@B, we've put to
 
 For more information about CSCI 2230 or CSCI 1234, see the [CSCI 2230 and CSCI 1234 Missive](#csci-2230-and-csci-1234-missive).
 
-### Prerequisites
+## Prerequisites
 
 The official **course** prerequisite for CSCI 1230 is to have completed a CS intro sequence: CSCI 0150 + 0200, 0170 + 0200, 0111 + 0112 + 0200, or 0190.
 
@@ -61,7 +30,7 @@ There are some **software and infrastructure prerequisites** as well:
 * You need to be able to compile and run the course projects on your own computer, or have a *very* fast internet connection to the department machines. Most laptop computers post-2015 should have no problem with compiling and running projects. More specifically, we use OpenGL 4.0 for many of our projects, which is supported on Intel, AMD, and NVIDIA graphics hardware that most common computers have newer than 2012.
 * You need a lot of free space on your machine to dedicate to  CSCI 1230. Qt Creator (the IDE we use) requires ~6GB, and the C++ developer tools for your OS may require considerably more than that (e.g. on macOS, the Xcode developer tools use about 30GB of disk space).
 
-### Learning Goals
+## Learning Goals
 
 Students who complete this course will:
 * Be familiar with different ways 3D shapes can be represented in graphics applications.
@@ -74,11 +43,11 @@ Students who complete this course will:
 
 The full list of CSCI 1230 topics can be found on the course website at (https://csci1230.graphics/lectures).
 
-### Work Expectations
+## Work Expectations
 
 Over 13 weeks, students will spend 3 hours per week in class (39 hours total), and approximately 2 hours per week in labs (20 hours total). Homeworks, which consists of 1-2 week projects and the accompanying algorithm assignments, usually take 15-20 hours per week, though they can also require somewhat more or less time depending on how much extra credit a student chooses to implement. In any case, students will spend a minimum of 8.5 hours per week and 120 hours total on homework by the end of the semester.
 
-### Grading
+## Grading
 
 Your CSCI 1230 grade consists of 1 tiny written homework, 6 rigorously graded projects, 12 labs that are given completion grades (one of the three final labs is optional), and a final project that is graded according to your presentation to the class during finals period. There are no exams or quizzes, and final grades are not curved; if the work meets specification, it deserves an A, and that is the most common grade. HW0 (which is about the collaboration policy) is critical: you must do it correctly or fail the course.
 * **HW0** ***(must be done correctly to pass course)***
@@ -93,7 +62,7 @@ Your CSCI 1230 grade consists of 1 tiny written homework, 6 rigorously graded pr
 * **Final Project**: 15%
 * **11 out of 12 Labs**: 10%
 
-### Materials
+## Materials
 
 The primary text for this course is the most recent edition of *Computer Graphics: Principles and Practice, by John Hughes, Andy van Dam, Morgan McGuire, David Sklar, Jim Foley, Steve Feiner, and Kurt Akeley*.
 **The book is not required**, as the lecture slides for CS1230 are nearly comprehensive. These slides do not replace the textbook, but they are the best source of information that is directly relevant to the assignments.
@@ -106,11 +75,11 @@ The course website has a wealth of information that will be useful to you throug
 * Documentation for the support code, help session slides, and links to external sources for help
 with OpenGL: https://csci1230.graphics/docs
 
-### Collaboration Policy
+## Collaboration Policy
 
 CSCI 1230 has a strictly enforced [collaboration policy](????) in line with [Brown's Academic Code](https://www.brown.edu/academics/college/degree/sites/brown.edu.academics.college.degree/files/uploads/Academic-Code.pdf) which emphasizes that all written work must be the student's own except for certain limited forms of collaboration that are explicitly permitted.
 
-### Late Policy
+## Late Policy
 A late algo or lab checkoff will receive **no credit**. Each day a project is turned in late will be penalized 10% of the possible total points. (If you are 25 hours late in handing in, that’s a 20%, even though you hand in during the first hour of that ‘extra day’).
 
 Every student has five late passes that can each be used to waive a day that a project was turned in late (and the opportunity to earn an extra late pass by filling out a mid-semester course feedback survey). These late passes will automatically be applied optimally (to maximize your grade) at the end of the semester. You may **not** use **any** late days at all on the Final project.
@@ -119,27 +88,25 @@ Late days are expected to cover clustering of due dates and job interviews. For 
 
 As projects build upon each other, it is important to start early and quickly recover from late handins.
 
-### Diversity and Inclusion
+## Diversity and Inclusion
 
 Our intent is that this course provide a welcoming environment for all students who satisfy the prerequisites. Our TAs have undergone training in diversity and inclusion, and all members of the CS community, including faculty and staff, are expected to treat one another in a professional manner. If you feel you have not been treated in a professional manner by any of the course staff, please contact either the instructor, [Ugur Cetintemel](mailto:ugur@cs.brown.edu) (Dept. Chair), [Tom Doeppner](mailto:twd@cs.brown.edu) (Vice Chair) or [Laura Dobler](mailto:laura_dobler@brown.edu) (diversity & inclusion staff member). We will take all complaints about unprofessional behavior seriously. Prof. Krishnamurthi has [good notes](http://cs.brown.edu/courses/cs019/2016/professionalism.html) on this area. To access student support services and resources, and to learn more about diversity and inclusion in CS, please visit [this webpage](http://cs.brown.edu/about/diversity/resources/).
 
 Brown welcomes students from all around the country and the world, and their unique perspectives enrich our learning community. To empower students whose first language is not English, an array of support is available on campus, including language and culture workshops and individual appointments. For more information, contact the English Language Learning Specialists at [ellwriting@brown.edu](ellwriting@brown.edu).
 
-### Accommodations
+## Accommodations
 
 Brown University is committed to full inclusion of all students. Please inform Daniel if you have a disability or other condition that might require accommodations or modification of any of these course procedures. You may email Daniel, come to office hours, or speak with him after class, and your confidentiality is respected. We will do whatever we can to support accommodations recommended by SEAS. For more information contact Student and Employee Accessibility Services ([SEAS](https://www.brown.edu/campus-life/support/accessibility-services/)) at 401-863-9588 or SEAS@brown.edu. Students in need of short-term academic advice or support can contact one of the deans in the Dean of the College office.
 
-### Mental Health
+## Mental Health
 
 Being a student can be very stressful. If you feel you are under too much pressure or there are psychological issues that are keeping you from performing well at Brown, we encourage you to contact Brown’s Counseling and Psychological Services [CAPS](https://www.brown.edu/campus-life/support/counseling-and-psychological-services/). They provide confidential counseling and can provide notes supporting extensions on assignments for health reasons.
 
-### Incomplete Policy
+## Incomplete Policy
 
 We expect everyone to complete the course on time. However, we certainly understand that there may be factors beyond your control, such as health problems and family crises, that prevent you from finishing the course on time. If you feel you cannot complete the course on time, please discuss with the instructor the possibility of being given a grade of Incomplete for the course and setting a schedule for completing the course in the upcoming year.
 
 *Thanks to Tom Doeppner and Laura Dobler for the text on accommodation, mental health, and incomplete policy.*
-
----
 
 ## CSCI 2230 and CSCI 1234 Missive
 
@@ -147,72 +114,17 @@ Here, we provide some more detailed information for students interested in CSCI 
 * CSCI 2230 is for graduate students who wish to earn 2000-level credit
 * CSCI 1234 is for undergraduate students who want a bigger challenge / want to use CSCI 1230 as their capstone.
 
-### Assignment Enhancements
-
 For each of the 6 projects, you will be expected to complete additional features. We've worked hard to ensure that these enhancements are not just more work, but that they also will increase your understanding of graphics programming. This does not mean they are easy and/or quick to do.  In a couple of cases, you will be able to use your creativity to implement something of your own choosing. Do not assume what you implement will count towards the extra features requirement! Check with a TA during hours or email them before handing in. As a group, they have all implemented the enhancements and should be able to help answer any questions.
 
 Students who are not enrolled in CSCI 2230 or CSCI 1234 are also welcome to attempt these enhancements; for such students, successful implementations of extra features will count as extra credit.
 
-### Time Management
-
-We tell everyone this, but for meeting these requirements, you will really need to start each project as soon as it is released. We aren't joking or exagerating in the slightest. If you find the assignments easy, we hope you will apply to be a CSCI 1230 TA next year!
-
-### Registration
-
 Graduate students should enroll in CSCI 2230. Undergraduates should enroll in one of the two sections of CSCI 1230 **and** in CSCI 1234. If you like the idea of challenging yourself and diving deeper into the material but aren't sure about the time commitment, you can register for CSCI 1234 S/NC (even if you've registered for CSCI 1230 on letter-graded basis). However, students who wish to use CSCI 1230 for their capstone **must** enroll in CSCI 1234 for a letter grade.
 
----
-
-## Student Guide
-
-This section provides more in-depth information on the contents of the course and our expectations for the work that students will produce. The Course Missive section above covers the most critical info, but if you've made up your mind that you want to take CSCI 1230 (and we hope you have!), then read on for more details.
-
-### Lectures
-
-A strong correlation has been shown between those who do well in CSCI 1230 and those who come to class. Lectures are enriched by class discussion, live demos and other content beyond the slides themselves. We strongly encourage class attendance.
-
-We don’t have nearly enough lecture time to teach everything we wish we could. The lecture topics have been carefully selected by Daniel and the TAs, taking into account the feedback we receive from former CSCI 1230 students. If you feel like you aren’t getting enough out of the lectures, we encourage you to talk to Daniel or the TAs rather than abandoning them altogether. We are constantly revising CSCI 1230, and we take all feedback under serious consideration during our weekly staff meetings.
-
-### Public Health
+## Public Health
 
 Unless otherwise announced, masks are required in lecture, labs, TA hours, and the professor's office hours.
 
 Feeling sick? Please do not come to lecture or use public computer labs. Ask a friend to fill you in on details from class, and review the lecture slides + recording online. We would like to keep everyone in good health. 
-
-### Help Sessions
-
-There will be several CS1230 help sessions throughout the year: on C++ programming, linear algebra, shader pogramming in GLSL, etc. Dates and times will be on the course calendar. If you feel that a particular help session would be useful to clarify a topic, you may contact the Head TA (at cs1230headtas@lists.brown.edu) to discuss your proposal.
-
-### Programming
-
-Because graphics work can be computationally intensive, CSCI 1230 is one of the few remaining courses at Brown to use C++. In computer graphics, the performance implications of managed language features such as garbage collection and memory bounds-checking can be unacceptably high. One of the key techniques you’ll take away from CSCI 1230 is the ability to balance raw performance with excellent code maintainability and style.
-
-#### Toolkit 
-
-Creating GUIs in C++ is often a hassle. We use Qt to achieve cross-platform UI functionality.
-Because Qt depends on special preprocessors and compilers, we recommend that you use Qt Creator to author your C++ code. Qt Creator features automatic code completion, integrated debugging, and automatic Makefile management. Both Qt and Qt Creator are free (under the LGPL license) and cross-platform.
-
-**Where is Qt Creator installed?**
-
-For your convenience, Qt Creator is installed in several locations throughout the CIT.
-* All department Linux machines
-* All department Windows machines
-* All CIS cluster Windows machines on the second floor of the CIT
-
-You may also install the Qt SDK on your personal computer to work from home. Regardless of your choice of development platform, you must ensure that your code compiles in our course Docker container (more info on this to follow).
-
-#### Software Engineering
-
-We expect that you have all had a thorough grounding in the principles of good software design by now. We care mostly about the functionality, stability, and speed of your implementation; however, we will also grade partially on code quality. Good engineering practices early on will greatly help you on future assignments.
-
-Basic engineering principles by which you should abide:
-* Avoid repeated code by thinking about good class design in advance.
-* Don't do anything grossly inefficient. For example, factor repeated computation out of loops.
-* Always remember to free your memory.
-
-#### Don't know C++?
-
-Students are able to take the course without knowing C++; in fact, we assume most students will not know it in advance. However, these students will need to spend extra time at the beginning of the course learning C++. There will be multiple TA-run help sessions throughout the semester on C++ programming. TAs are also ready and willing to help students with C++ questions at office hours. Aside from the help sessions and TA help, the course has no special provisions for students learning C++. Programs will be due at the same time for everyone and will be graded on the same scale. 
 
 ### Assignments
 
@@ -249,23 +161,7 @@ When you think you’re done with the algorithm worksheet, begin coding immediat
 
 Take it seriously! Expect to spend between 1 to 2 hours on each algorithm worksheet.
 
-##### Algo grading
-
 Algos make up 10% of your final grade. They are graded on completion, with a small amount of extra credit awarded for correct answers. Algorithm worksheets are returned the same day as the deadline so you can begin coding with confidence right away. Because we release the solutions immediate after the deadline, ***late algo submissions are not accepted*** (so be sure to turn them in on time!)
-
-#### Optimization
-
-While we don’t expect you to go overboard with optimization, we do expect your programs to perform well. Be sure to factor repeated computation out of loops, but don’t feel compelled to write assembly code or special SSE instructions.
-
-**Memory Management**: Rather than repeatedly allocating bits of memory, allocate a large chunk all at once. Use smart pointers and STL or Qt data structures that automatically manage your memory when approrpiate.
-
-**Orders of Magnitude**: Be aware of the differences (especially with regard to O(n) performance and memory overhead) between different data structures. We’ll dock points for big memory leaks and things you obviously should have factored out of your loops.
-
-**Accuracy**: Above all, don’t sacrifice accuracy for performance!
-
-#### Workload
-
-This set of assignments probably looks like a burden, but in fact, if approached sensibly (i.e., working steadily), you will have sufficient time for each and every one. The normal load is about 15 hours per week. By the time you take CSCI 1230 you are expected to be a competent programmer, with good design and debugging habits, and able to turn assignments in on time. Good time management will make this course much more enjoyable!
 
 ### Grading
 
@@ -323,8 +219,6 @@ Questions related to coding the projects or concepts explained in class should b
 As we mentioned before, CSCI 1230 is a continually evolving course. As such, we are bound to have our own 'bugs' hiding in the corners. Please read everything we hand out very carefully. If there is something which you do not understand, or which is not stated very clearly, please let us know so we can fix it right away. This applies to the material discussed in lecture as well. Give us constructive criticism on all aspects of the course. The more feedback there is, the better we can make this course for you as the semester progresses, and the better we can make it for the next twenty-five years of Brown computer graphics students!
 
 We just went through a lot of heavy talk. Please take all of it seriously, but also remember that we're not trying to scare you. We are here to help you! We're just clearing preliminaries and establishing the ground rules. With that done, we hope you'll have as much fun as we did in CSCI 1230.
-
----
 
 ## Collaboration Policy
 
