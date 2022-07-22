@@ -111,31 +111,32 @@ Sometimes you may feel that you have been graded unfairly. If you ever feel this
 If you decide to challenge a grade, you must do so ***within one week of its receipt***. In the past, students have tried to get points back on all of their assignments in the last week of classes; this places an unfair burden on TAs at the end of the semester and is unfair to other students. If you discover that you handed in the wrong work after you get your grade back, or if you fix your program after getting its grade back, we are unable to take those fixes into account for grading purposes.
 
 ## Late Policy
-A late algo or lab checkoff will receive **no credit**. Each day a project is turned in late will be penalized 10% of the possible total points. (If you are 25 hours late in handing in, that’s a 20%, even though you hand in during the first hour of that ‘extra day’).
+A late algo or lab checkoff will receive ***no credit***. Each day a project is turned in late will be penalized 10% of the possible total points. (If you are 25 hours late in handing in, that’s a 20%, even though you hand in during the first hour of that ‘extra day’).
 
-Every student has five late passes that can each be used to waive a day that a project was turned in late (and the opportunity to earn an extra late pass by filling out a mid-semester course feedback survey). These late passes will automatically be applied optimally (to maximize your grade) at the end of the semester. You may **not** use **any** late days at all on the Final project.
+Every student has five late passes that can each be used to waive a day that a project was turned in late (and the opportunity to earn an extra late pass by filling out a mid-semester course feedback survey). These late passes will automatically be applied optimally (to maximize your grade) at the end of the semester. You may ***not*** use ***any*** late days at all on the Final project.
 
 Late days are expected to cover clustering of due dates and job interviews. For sickness and other issues of wellbeing, please obtain a note from health services or a Dean and communicate with Daniel; the TAs will not be involved in handling these.
 
 As projects build upon each other, it is important to start early and quickly recover from late handins.
 
-## Collaboration Policy
+## Academic Integrity & Collaboration Policy
 
-Projects are more fun and interesting than exams, right? We think so, too, which is why this course is 100% project-based: your grade is based solely on your labs, programming projects, and algo assignments. Because the course has no exams, to fairly evaluate you, we need to be sure that your assignments are your own work. This is required by Brown's academic code: “Academic achievement is evaluated on the basis of ***work that a student produces independently***. A student who obtains credit for work, words, or ideas that are not the products of his or her own effort is dishonest and in violation of Brown’s Academic Code.”
+Collaborating with your fellow students is an important part of a rich and rewarding learning experience. However, Brown's academic code also requires that we evaluate you based on ***your own work***: “Academic achievement is evaluated on the basis of work that a student produces independently. A student who obtains credit for work, words, or ideas that are not the products of his or her own effort is dishonest and in violation of Brown’s Academic Code.” With the above in mind, we've designed a collaboration policy that we think strikes a reasonable balance between appropriate collaboration and rigorous independent work.
 
-However, we also acknowledge that collaborating with your fellow students is part of a rich and rewarding learning experience. We don't want you to feel like you can't talk to other students because you're afraid of being "dishonest" or "in violation of Brown's Academic Code." That's where this document comes in: here, we explicitly clarify all the permitted and not permitted forms of collaboration in this course. The tl;dr is that you are going to have to do most of the heavy thinking/working on your own...but there are still plenty of allowable ways to get help from (and to help out) your fellow students.
+The tl;dr is that you should generally feel free to discuss concepts and work through ideas with your classmates, but you must produce your own code and written solutions to assignments.
 
-### Permitted forms of collaboration
+More specifically, follow these guidelines for different parts of the course:
 
-The following forms of collaboration are permitted (and even encouraged!)
-* **The final project**, which can be completed in groups (more details later in the semester).
-* **Discussing the algo assignments**. If you do discuss an algo assignment with other students, you should retain no notes (paper, typed, whiteboard photos, etc.) from the discussion. After the discussion is over and all records of it are gone, you should then write up the solution on your own. Please also ***write down the names and/or CS logins of each student you collaborated with*** next to each question. Your solution should contain only your own work. If you're not sure what this means, consider answering a question like this about a solution in which you wrote some code: "If I changed line 3 of this code to have `2 * i` instead of `i`, what would the output look like? Would the code still compile? Would there be new error-cases to check for?" If you can't answer that kind of question, then the code isn't really *yours*. The same goes for formulas you derive.
-* **Discussing solutions to labs**. In fact, you are encouraged to work together with others on labs and to help each other debug them.
-* **Discussing material covered in lectures or the textbook**. For example: "What are the different transformation matrices that were covered in lecture last week?"
-* **Discussing the requirements of an assignment**.
-* **Asking general knowledge questions about C++**. Examples: “How do I make something public? How do I set up debugging in Qt Creator?”
-* **Discussing general techniques for designing, writing, or debugging code, or for using particular software tools**. Examples: “When I get a segmentation fault, can you show me how to use gdb to find the line where the program crashed?” or "How do I download just one file from a project on github?"
-* **Exchanging render results, scene files, and other test data.** These exchanges are OK, but must be documented in your submission README. Example: “I exchanged {sample renders, scene files} with lcohen2.”
+**Labs**: sdfsdf
+
+**Algos**: sdfsdf
+
+**Programming Projects**: sdfsdf
+
+**The Final Project**: sdfsdf
+
+**Edstem**: sdfsdf
+
 
 ## Diversity and Inclusion
 
@@ -165,10 +166,9 @@ Before we get started, keep in mind: your TAs are all students, too. They have t
 
 ### Where to go to get your questions answered
 
-Your first stop when you have a question should be the course web page: https://csci1230.graphics. It is a useful source of online course material. A wide variety of things like lectures, handouts, the syllabus, TA hours, and software guides can be found on this site.
-You are responsible for checking the web site frequently, as we will be updating it with important information as the semester progresses. Most updates to the website will be accompanied by an announcement to Edstem.
+Your first stop when you have a question should be the course website. You are responsible for checking the web site frequently, as we will be updating it with important information as the semester progresses. Most updates to the website will be accompanied by an announcement to Edstem.
 
-If you can't find the answer to your question on the course website, you should next check Edstem: https://edstem.org/us/courses/12828.
+If you can't find the answer to your question on the course website, you should next check Edstem.
 On Edstem, always first check if someone has asked a similar to question to the one you have--with luck, it might already have an answer.
 If you've confirmed that no one else has asked (a variant of) your question, then you can go ahead and make a new post.
 There are set times throughout the week during which a TA will be monitoring Edstem and answering questions; these can be found on the course website. Outside of these times, you should not expect a prompt response from a TA. However, your fellow students may be monitoring Edstem as well, and they can be a great resource! We encourage you to post answers to questions on Edstem; your record of helping out your fellow students here is something we factor in when determining final grades for borderline cases.
@@ -179,11 +179,9 @@ Thank you for helping us comply with departmental and university regulations (wh
 
 ### TA Hours
 
-The schedule of TA hours is available on the course website. We will make every effort to maintain these hours without exception. On rare occasion, we might need to cancel or reschedule a TA hour session. When TA hours are rescheduled or exceptions are made, these will be announced on Edstem (which should auto-generate an email announcement to all students).
+The schedule of TA hours is available on the course website. We will make every effort to maintain these hours without exception. On rare occasion, we might need to cancel or reschedule a TA hour session. When TA hours are rescheduled or exceptions are made, these will be announced on Edstem.
 
-TA hours are often very busy, and many times there will be a waiting list. You may sign up on the waiting list when TA hours are in progress, but not before TA hours start. The TA will clear the waiting list at the start of TA hours each day. If the waiting list is very long and the end of TA hours is approaching, the TA may close the waiting list so that all people on the waiting list can be helped before TA hours are over. You can help alleviate this problem of crowded hours by simply starting early. While there is no bonus for doing this, starting early often means finishing in less time, since you won't have to wait as long to get your questions answered.
-
-Please note that taking any source code (or a TA’s modifications to your source code) away from TA hours is a violation of our collaboration policy. The TAs are not here to debug your code, but rather to clarify your understanding of the concepts taught in class and used in the assignments.
+TA hours are often very busy, and many times there will be a waiting list. You may sign up on the waiting list when TA hours are in progress, but not before TA hours start. The TA will clear the waiting list at the start of TA hours each day. If the waiting list is very long and the end of TA hours is approaching, the TA may close the waiting list so that all people on the waiting list can be helped before TA hours are over.
 
 ### Sending mail to the TAs
 
