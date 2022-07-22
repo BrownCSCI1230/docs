@@ -123,17 +123,17 @@ As projects build upon each other, it is important to start early and quickly re
 
 Collaborating with your fellow students is an important part of a rich and rewarding learning experience. However, Brown's academic code also requires that we evaluate you based on ***your own work***: “Academic achievement is evaluated on the basis of work that a student produces independently. A student who obtains credit for work, words, or ideas that are not the products of his or her own effort is dishonest and in violation of Brown’s Academic Code.” With the above in mind, we've designed a collaboration policy that we think strikes a reasonable balance between appropriate collaboration and rigorous independent work.
 
-The tl;dr is that you should generally feel free to discuss concepts and work through ideas with your classmates, but you must produce your own code and written solutions to assignments.
+**The tl;dr is that you should generally feel free to discuss concepts and work through ideas with your classmates, but you must produce your own code and written solutions to assignments.**
 
 More specifically, follow these guidelines for different parts of the course:
 
-**Labs**: sdfsdf
+**Labs**: You are encouraged to work together with others on labs and to help each other debug them.
 
-**Algos**: sdfsdf
+**Algos**: You are welcome to discuss the algo assignments with others. If you do discuss an algo with other students, you should retain no notes (paper, typed, whiteboard photos, etc.) from the discussion. After the discussion is over and all records of it are gone, you should then write up the solution on your own. Please also ***write down the names and/or CS logins of each student you collaborated with*** next to each question. Your solution should contain only your own work. If you're not sure what this means, consider answering a question like this about a solution in which you wrote some code: "If I changed line 3 of this code to have `2 * i` instead of `i`, what would the output look like? Would the code still compile? Would there be new error-cases to check for?" If you can't answer that kind of question, then the code isn't really *yours*. The same goes for formulas you derive.
 
-**Programming Projects**: sdfsdf
+**Programming Projects**: You are welcome to discuss the requirements, concepts behind, and general design strategies for the programming projects. However, all code you write must be your own. You should not look at, use, or otherwise refer to code written by another student (with or without their consent), nor code you found online (in a Github repository, Stack Overflow post, etc.) On the opposite side of the same coin, you should not share your own code with others (including by having it posted in a publicly-visible online repository or in your CS home directory with insufficient permissions). If you do discuss project strategy with another student, ***please include their name and/or CS login in your submission README***. 
 
-**The Final Project**: sdfsdf
+**The Final Project**: The final project can be completed in groups of 2-4, and we encourage you to do a group final project! Because the final project can be big and open-ended, there may be cases where it makes sense for you to make use of some third-party software/library. If you think this is necessary and appropriate for your project, please check with your mentor TA. If they approve it, then be sure to cite the software/library in your final project submission.
 
 **Edstem**: sdfsdf
 
