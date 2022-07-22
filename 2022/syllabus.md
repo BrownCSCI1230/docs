@@ -24,7 +24,6 @@ Welcome to CSCI 1230, the longest-running computer graphics course in the known 
   * [Help Sessions](#help-sessions)
   * [Programming](#programming)
   * [Assignments](#assignments)
-  * [Support Code Tips](#support-code-tips)
   * [Grading](#grading-1)
   * [Getting Help](#getting-help)
   * [Welcome!](#finally-welcome)
@@ -267,49 +266,6 @@ While we don’t expect you to go overboard with optimization, we do expect your
 #### Workload
 
 This set of assignments probably looks like a burden, but in fact, if approached sensibly (i.e., working steadily), you will have sufficient time for each and every one. The normal load is about 15 hours per week. By the time you take CSCI 1230 you are expected to be a competent programmer, with good design and debugging habits, and able to turn assignments in on time. Good time management will make this course much more enjoyable!
-
-
-### Support Code Tips
-
-#### Vectors and Matrices
-
-The support code uses a library called glm for vector and matrix operations. Glm contains vector types called glm::vec2, glm::vec3, and glm::vec4, as well as matrix types such as glm::mat4. Examples:
-```cpp
-glm::vec2 pos; // Default constructor initializes x and y to 0
-pos.x = 1;
-glm::value_ptr(pos)[1] = 3;
-std::cout << glm::to_string(pos) << std::endl; // Outputs [ 1 3 ]
-
-glm::vec3 v = glm::vec3(1, 2, 3);
-glm::vec3 n = glm::vec3(5, 2, 0);
-float dotProduct = glm::dot(v, n); // dotProduct == 9
-for (int i = 0; i < 3; ++i)
-   glm::value_ptr(n)[i] = 2 * i;
-glm::vec3 piecewiseProduct = v * n; // piecewiseProduct == [0, 4, 12]
-```
-
-#### Qt Creator
-
-Qt Creator has lots of shortcuts and tricks that can make your life a lot easier. Here are some of the most helpful shortcuts:
-* F2: Go to the definitions of the symbol under the cursor.
-* F4: Switches between the header and cpp file.
-* Ctrl+Shift+R: Rename and refactor the symbol under the cursor.
-* Ctrl+Shift+U: Find all usages of the symbol under the cursor.
-* Ctrl+L: Go to a specific line number.
-* Ctrl+K: Godmode - Search for **anything**. If you learn one new shortcut, this should be it. Examples:
-   * Type Ctrl+K followed by “m paintGL” to see a list of all methods named paintGL. Hit Enter to go to the implementation of the selected method.
-   * Type Ctrl+K followed by “c Canvas2D” to see a list of all classes named Canvas2D. Hit Enter to go to the Canvas2D class definition.
-   * Type Ctrl+K followed by “? QList” then hit Enter to view the Qt Help on the QList class.
-   * (For more information, hit Ctrl+K and read what each letter prefix does)
-
-#### Floating Point Calculations
-
-Keep in mind that floating point numbers have limited precision, so floating point calculations may lead to rounding errors. To compare two floating point numbers x and y for equality, use abs(x-y) < EPSILON. You can define an EPSILON that works well for your program (usually 1e-4 to 1e-8).
-
-#### Settings
-
-The support code defines a global object named `settings` to hold values entered through the GUI. This object is automatically updated when things are changed in the GUI, though the GUI is not updated when the settings object is changed programmatically.
-
 
 ### Grading
 
