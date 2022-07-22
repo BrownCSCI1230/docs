@@ -11,13 +11,23 @@ Welcome to CSCI 1230, the longest-running computer graphics course in the known 
 * TA mailing list: cs1230tas@cs.brown.edu
 * Ed discussion board: https://edstem.org/us/courses/12828
 
-For those confused by the different choices for this course on C@B, we've put together this handy guide:
-* CSCI 1230 S01: The main section of the course. You should sign up for this, unless any of the below circumstances apply to you.
-* CSCI 1230 S02: This section is for students who really want to take the course but have an unavoidable time conflict with another course; since this section is marked as "ONLINE" on C@B, it will not trigger a schedule conflict with any other course. If you need to enroll in this section, you are still welcome (and encouraged!) to come to lecture, conflicts permitting. At minimum, you should watch the lecture recordings soon after they are posted.
-* CSCI 2230: This course is for graduate students who wish to earn 2000-level credit. Graduate students enrolled in this course attend the same lectures and complete the same assignments as students in CSCI 1230; however, they will be expected to implement some extra features for each assignment. Undergraduates cannot enroll in this course.
-* CSCI 1234: This half-credit course (to be taken in addition to CSCI 1230 S01 or CSCI 1230 S02) is for undergraduates who wish to challenge themselves to complete the same extra requirements as grad students taking CSCI 2230. Students who wish to use CSCI 1230 as their capstone are required to take this extra half-credit course.
+## Public Health
 
-For more information about CSCI 2230 or CSCI 1234, see the [CSCI 2230 and CSCI 1234 Missive](#csci-2230-and-csci-1234-missive).
+Unless otherwise announced, masks are required in lecture, labs, TA hours, and the professor's office hours.
+
+Feeling sick? Please do not come to lecture or use public computer labs. Ask a friend to fill you in on details from class, and review the lecture slides + recording online. We would like to keep everyone in good health. 
+
+## Registration
+
+For those confused by the different choices for this course on C@B, we've put together this handy guide:
+
+**CSCI 1230 S01:** The main section of the course. You should sign up for this, unless any of the below circumstances apply to you.
+
+**CSCI 1230 S02:** This section is for students who really want to take the course but have an unavoidable time conflict with another course; since this section is marked as "ONLINE" on C@B, it will not trigger a schedule conflict with any other course. If you need to enroll in this section, you are still welcome (and encouraged!) to come to lecture, conflicts permitting. At minimum, you should watch the lecture recordings soon after they are posted.
+
+**CSCI 2230:** This course is for graduate students who wish to earn 2000-level credit. Graduate students enrolled in this course attend the same lectures and complete the same assignments as students in CSCI 1230; however, they will be expected to implement some extra features for each assignment. Undergraduates cannot enroll in this course.
+
+**CSCI 1234:** This half-credit course (to be taken in addition to CSCI 1230 S01 or CSCI 1230 S02) is for undergraduates who wish to challenge themselves to complete the same extra requirements as grad students taking CSCI 2230. CSCI 1234 can be taken for a letter grade or S/NC, regardless of the grading option chosen for CSCI 1230. Students who wish to use CSCI 1230 as their capstone are required to take this extra half-credit course for a letter grade.
 
 ## Prerequisites
 
@@ -41,7 +51,33 @@ Students who complete this course will:
 * Know how to process images by applying filters and transformations while minimizing artifacts such as aliasing (a.k.a. “jaggies”).
 * Understand the fundamentals of human color perception, the abilities of displays to reproduce colors, and the impact of color choice on viewer experience.
 
-The full list of CSCI 1230 topics can be found on the course website at (https://csci1230.graphics/lectures).
+The full list of CSCI 1230 topics can be found on the course website at https://csci1230.graphics/lectures.
+
+## Materials
+
+The primary text for this course is the most recent edition of *Computer Graphics: Principles and Practice, by John Hughes, Andy van Dam, Morgan McGuire, David Sklar, Jim Foley, Steve Feiner, and Kurt Akeley*.
+**The book is not required**, as the lecture slides for CS1230 are nearly comprehensive. These slides do not replace the textbook, but they are the best source of information that is directly relevant to the assignments.
+
+The course website has a wealth of information that will be useful to you throughout the semester:
+* TA hours schedule and contact information: https://csci1230.graphics/
+* Instructions and stencil code for each project: https://csci1230.graphics/projects
+* Instructions and stencil code for each lab: https://csci1230.graphics/labs
+* Links to PDF and PowerPoint versions of each class and accompanying videos and/or demos: https://csci1230.graphics/lectures
+* Documentation for the support code, help session slides, and links to external sources for help
+with OpenGL: https://csci1230.graphics/docs
+
+## Required Coursework
+
+### Projects
+There are six programming projects, divided into three units (raster graphics, raytracing, realtime graphics), as well as an open-ended final project. The final project can be completed in groups; all remaining projects must be done individually.
+
+### Algos
+Each programming assignment will be accompanied by a written algorithm (“algo”) assignment to get you started thinking about how to approach the assignment mathematically and algorithmically. Algo answers should be clear and succinct. If we ask you to describe a section of the project’s algorithm, you should probably go with a description, or pseudo code, rather than actual C++.
+
+Algos make up 10% of your final grade. They are graded on effort/completion, with a small amount of extra credit awarded for correct answers. Algorithm worksheets are returned the same day as the deadline so you can begin coding with confidence right away. Because we release the solutions immediately after the deadline, ***late algo submissions are not accepted*** (so be sure to turn them in on time!)
+
+### Labs
+In addition to the projects, a series of labs will provide hands-on experience with various graphics programming topics and tools. Each lab is designed such that the code you write will be helpful for one of the programming projects (or for the final project).
 
 ## Work Expectations
 
@@ -62,22 +98,17 @@ Your CSCI 1230 grade consists of 1 tiny written homework, 6 rigorously graded pr
 * **Final Project**: 15%
 * **11 out of 12 Labs**: 10%
 
-## Materials
+Daniel doesn't use a curve and would be delighted to hand out As to the entire class. Indeed, the majority of students traditionally have worked hard and gotten As. In borderline cases (e.g. 89-91), Daniel will take attendance and class participation into account, as well as your perceived effort and dedication.
 
-The primary text for this course is the most recent edition of *Computer Graphics: Principles and Practice, by John Hughes, Andy van Dam, Morgan McGuire, David Sklar, Jim Foley, Steve Feiner, and Kurt Akeley*.
-**The book is not required**, as the lecture slides for CS1230 are nearly comprehensive. These slides do not replace the textbook, but they are the best source of information that is directly relevant to the assignments.
+#### Extra Credit
 
-The course website has a wealth of information that will be useful to you throughout the semester:
-* TA hours schedule and contact information: https://csci1230.graphics/
-* Instructions and stencil code for each project: https://csci1230.graphics/projects
-* Instructions and stencil code for each lab: https://csci1230.graphics/labs
-* Links to PDF and PowerPoint versions of each class and accompanying videos and/or demos: https://csci1230.graphics/lectures
-* Documentation for the support code, help session slides, and links to external sources for help
-with OpenGL: https://csci1230.graphics/docs
+There is ample room for bells, whistles, and other credit-garnering efforts on the part of ambitious programmers. You are invited to get creative, as long as it does not make you late. Rewarding bells and whistles with extra credit is left to the discretion of the course staff, so we strongly encourage you to discuss your creative plans with a TA before you forge ahead to make sure that they are considered appropriate for credit. If you are not enrolled in CSCI 2230 or CSCI 1234, completing any of the enhancements required for those courses will count as extra credit for you.
 
-## Collaboration Policy
+#### Regrade Requests
 
-CSCI 1230 has a strictly enforced [collaboration policy](????) in line with [Brown's Academic Code](https://www.brown.edu/academics/college/degree/sites/brown.edu.academics.college.degree/files/uploads/Academic-Code.pdf) which emphasizes that all written work must be the student's own except for certain limited forms of collaboration that are explicitly permitted.
+Sometimes you may feel that you have been graded unfairly. If you ever feel this way, please request a regrade on Gradescope. Once your request is evaluated, you will be provided with an explanation and possibly points back. If you are not satisfied with the regrade decision please talk to the Head TA. If there is still a problem, Daniel is the final word in grading and will be happy to hear what you have to say.
+
+If you decide to challenge a grade, you must do so ***within one week of its receipt***. In the past, students have tried to get points back on all of their assignments in the last week of classes; this places an unfair burden on TAs at the end of the semester and is unfair to other students. If you discover that you handed in the wrong work after you get your grade back, or if you fix your program after getting its grade back, we are unable to take those fixes into account for grading purposes.
 
 ## Late Policy
 A late algo or lab checkoff will receive **no credit**. Each day a project is turned in late will be penalized 10% of the possible total points. (If you are 25 hours late in handing in, that’s a 20%, even though you hand in during the first hour of that ‘extra day’).
@@ -87,6 +118,24 @@ Every student has five late passes that can each be used to waive a day that a p
 Late days are expected to cover clustering of due dates and job interviews. For sickness and other issues of wellbeing, please obtain a note from health services or a Dean and communicate with Daniel; the TAs will not be involved in handling these.
 
 As projects build upon each other, it is important to start early and quickly recover from late handins.
+
+## Collaboration Policy
+
+Projects are more fun and interesting than exams, right? We think so, too, which is why this course is 100% project-based: your grade is based solely on your labs, programming projects, and algo assignments. Because the course has no exams, to fairly evaluate you, we need to be sure that your assignments are your own work. This is required by Brown's academic code: “Academic achievement is evaluated on the basis of ***work that a student produces independently***. A student who obtains credit for work, words, or ideas that are not the products of his or her own effort is dishonest and in violation of Brown’s Academic Code.”
+
+However, we also acknowledge that collaborating with your fellow students is part of a rich and rewarding learning experience. We don't want you to feel like you can't talk to other students because you're afraid of being "dishonest" or "in violation of Brown's Academic Code." That's where this document comes in: here, we explicitly clarify all the permitted and not permitted forms of collaboration in this course. The tl;dr is that you are going to have to do most of the heavy thinking/working on your own...but there are still plenty of allowable ways to get help from (and to help out) your fellow students.
+
+### Permitted forms of collaboration
+
+The following forms of collaboration are permitted (and even encouraged!)
+* **The final project**, which can be completed in groups (more details later in the semester).
+* **Discussing the algo assignments**. If you do discuss an algo assignment with other students, you should retain no notes (paper, typed, whiteboard photos, etc.) from the discussion. After the discussion is over and all records of it are gone, you should then write up the solution on your own. Please also ***write down the names and/or CS logins of each student you collaborated with*** next to each question. Your solution should contain only your own work. If you're not sure what this means, consider answering a question like this about a solution in which you wrote some code: "If I changed line 3 of this code to have `2 * i` instead of `i`, what would the output look like? Would the code still compile? Would there be new error-cases to check for?" If you can't answer that kind of question, then the code isn't really *yours*. The same goes for formulas you derive.
+* **Discussing solutions to labs**. In fact, you are encouraged to work together with others on labs and to help each other debug them.
+* **Discussing material covered in lectures or the textbook**. For example: "What are the different transformation matrices that were covered in lecture last week?"
+* **Discussing the requirements of an assignment**.
+* **Asking general knowledge questions about C++**. Examples: “How do I make something public? How do I set up debugging in Qt Creator?”
+* **Discussing general techniques for designing, writing, or debugging code, or for using particular software tools**. Examples: “When I get a segmentation fault, can you show me how to use gdb to find the line where the program crashed?” or "How do I download just one file from a project on github?"
+* **Exchanging render results, scene files, and other test data.** These exchanges are OK, but must be documented in your submission README. Example: “I exchanged {sample renders, scene files} with lcohen2.”
 
 ## Diversity and Inclusion
 
@@ -108,85 +157,13 @@ We expect everyone to complete the course on time. However, we certainly underst
 
 *Thanks to Tom Doeppner and Laura Dobler for the text on accommodation, mental health, and incomplete policy.*
 
-## CSCI 2230 and CSCI 1234 Missive
-
-Here, we provide some more detailed information for students interested in CSCI 2230 or CSCI 1234. As a reminder:
-* CSCI 2230 is for graduate students who wish to earn 2000-level credit
-* CSCI 1234 is for undergraduate students who want a bigger challenge / want to use CSCI 1230 as their capstone.
-
-For each of the 6 projects, you will be expected to complete additional features. We've worked hard to ensure that these enhancements are not just more work, but that they also will increase your understanding of graphics programming. This does not mean they are easy and/or quick to do.  In a couple of cases, you will be able to use your creativity to implement something of your own choosing. Do not assume what you implement will count towards the extra features requirement! Check with a TA during hours or email them before handing in. As a group, they have all implemented the enhancements and should be able to help answer any questions.
-
-Students who are not enrolled in CSCI 2230 or CSCI 1234 are also welcome to attempt these enhancements; for such students, successful implementations of extra features will count as extra credit.
-
-Graduate students should enroll in CSCI 2230. Undergraduates should enroll in one of the two sections of CSCI 1230 **and** in CSCI 1234. If you like the idea of challenging yourself and diving deeper into the material but aren't sure about the time commitment, you can register for CSCI 1234 S/NC (even if you've registered for CSCI 1230 on letter-graded basis). However, students who wish to use CSCI 1230 for their capstone **must** enroll in CSCI 1234 for a letter grade.
-
-## Public Health
-
-Unless otherwise announced, masks are required in lecture, labs, TA hours, and the professor's office hours.
-
-Feeling sick? Please do not come to lecture or use public computer labs. Ask a friend to fill you in on details from class, and review the lecture slides + recording online. We would like to keep everyone in good health. 
-
-### Assignments
-
-#### Projects
-
-There are six programming projects, divided into three units, as well as an open-ended final project. The final project can be completed in groups; all remaining projects must be done individually.
-
-##### Unit 1: Raster
-In this unit, you'll explore how to create images by directly manipulating grids of pixels. This unit is divided into two assignments:
-* **Brush**: In this assignment, you will be implementing various different airbrushes, similar to ones found in many commercial painting programs such as Adobe Photoshop. This assignment should give you a good introduction to the kind of C++ programming you will be doing in this course, as well as gently familiarize you with Qt user interfaces.
-* **Filter**: Ever wonder how programs like Photoshop generate all those cool special effects? This assignment represents a subset of the functionality that photo editing programs have. It is designed to teach you the basics of image processing and anti-aliasing. You will implement various image manipulation operations like edge detection, blurring, and image scaling.
-
-##### Unit 2: Ray
-In this unit, you'll create a program which can take a description of a 3D scene and produce an image depicting that scene (a process known as "rendering"). You'll use an algorithm called "raytracing," which loosely simulates the propagation of rays of light through a scene. This unit is divided into two assignments:
-* **Ray 1**: In this assignment, you'll learn how to set up a "virtual camera" from which to render images of a 3D scene, how to trace rays from the camera into the scene, and how to determine what object in the scene each ray can "see."
-* **Ray 2**: In this assignment, you'll extend your work from Ray 1 to also compute the interactions of light sources with objects in the scene, including effects such as shadows and mirror reflections.
-
-##### Unit 3: Realtime
-Raytracing is cool, but it can be a bit slow to render an image. In this unit, you'll create a program which lets you render a 3D scene at real-time frame rates, so that you can explore the scene interactively. You'll accomplish this by writing code that uses OpenGL, an industry-standard library for programming graphics processing units, or GPUs. This unit is divided into two assignments:
-* **Realtime 1**: In this assignment, you'll learn how to represent various types of 3D shapes as triangle meshes (the representation that OpenGL expects), how to send this data from the CPU to the GPU, and how to set up a virtual camera to render shapes from different viewpoints.
-* **Realtime 2**: In this assignment, you'll build upon your work in Realtime 1 by computing per-pixel light/surface interactions using GLSL. You'll also  implement interactive camera movement, as well as postprocessing effects to make your rendered scene look extra fancy :) 
-
-##### Final Project
-Lastly, you will be creating a final project. The final project can be anything you want that includes one or more of the concepts we covered during the semester, plus a technique you research on your own. Examples include a short game, a cool OpenGL shader program, a demo scene, an implementation of an advanced rendering system, or some combination of the above! Note you're not restricted to these ideas alone. We’ll cover the final project in greater detail later in the semester.
-
-#### Labs
-In addition to the projects, a series of labs will provide hands-on experience with various graphics programming topics and tools. Each labe is designed such that the code you write will be helpful for one of the programming projects (or for the final project).
-
-#### Algos
-
-Each programming assignment will be accompanied by a written algorithm (“algo”) assignment to get you started thinking about how to approach the assignment mathematically and algorithmically. Algo answers should be clear and succinct. Don't just start writing. Think first, and then write up the clearest answer you can. If we ask you to describe a section of the project’s algorithm, you should probably go with a description, or pseudo code, rather than actual C++.
-
-When you think you’re done with the algorithm worksheet, begin coding immediately while it’s still fresh in your mind. Don’t wait for the solutions to begin coding. The solutions to the algorithm worksheets are designed to help you to debug your program, not to help you write the code for the first time.
-
-Take it seriously! Expect to spend between 1 to 2 hours on each algorithm worksheet.
-
-Algos make up 10% of your final grade. They are graded on completion, with a small amount of extra credit awarded for correct answers. Algorithm worksheets are returned the same day as the deadline so you can begin coding with confidence right away. Because we release the solutions immediate after the deadline, ***late algo submissions are not accepted*** (so be sure to turn them in on time!)
-
-### Grading
-
-Your final grade will be determined based on the programming assignments, algorithm hand-ins, and labs.
-
-Daniel doesn't use a curve and would be delighted to hand out As to the entire class. Indeed, the majority of students traditionally have worked hard and gotten As. In borderline cases (e.g. 89-91), Daniel will take attendance and class participation into account, as well as your perceived effort and dedication. We all love to both give and receive good grades, but do understand that merely working hard doesn’t guarantee you an A. Your grade will reflect primarily upon the quality, correctness, and timeliness of your hand-ins.
-
-#### Extra Credit
-
-There is ample room for bells, whistles, and other credit-garnering efforts on the part of ambitious programmers. You are invited to get creative, as long as it does not make you late. Rewarding bells and whistles with extra credit is left to the discretion of the course staff, so we strongly encourage you to discuss your creative plans with a TA before you forge ahead to make sure that they are considered appropriate for credit. Also, keep in mind that bells and whistles should only be done after the standard assignment is fully working since they won't count in lieu of missing or buggy features! CSCI 1230 offers many opportunities for extra credit: if you finish a program a little early, seek appropriate inspiration and add something fancy.
-
-#### Regrade Requests
-
-Sometimes you may feel that you have been graded unfairly. If you ever feel this way, please request a regrade on Gradescope. Once your request is evaluated, you will be provided with an explanation and possibly points back. If you are not satisfied with the regrade decision please talk to the Head TA. If there is still a problem, Daniel is the final word in grading and will be happy to hear what you have to say.
-
-If you decide to challenge a grade, you must do so ***within one week of its receipt***. In the past, students have tried to get points back on all of their assignments in the last week of classes. Our first priority is fairness, both to us and to you! You may ask questions about your grades at any time. You can’t change the contents of your hand-in after your grade is returned. If you discover that you handed in the wrong work after you get your grade back, or if you fix your program after getting its grade back, we are unable to take that “external” content into account for grading purposes.
-
-
-### Getting Help
+## Getting Help
 
 CS 1230 is a challenging course, both conceptually and practically: there are new ideas to wrap your head around, and the programming work expected of you has a non-trivial learning curve (especially if you've never seen C++ before). Because of this, it is completely normal to struggle on some of the assignments! We're here to help :) This section has more information about how to ask for course-related help when you need it. 
 
 Before we get started, keep in mind: your TAs are all students, too. They have their own courses and other obligations; being a TA is just one of their many time commitments. TA time is a finite resource, so please be respectful of it. Before asking for TA help, make a good faith effort to solve a problem on your own (or seek help from a friend/classmate, within the boundaries of our collaboration policy). And always remember: getting help from a TA is a privilege, not a right to which you are entitled. "I wasn't seen by a TA" is not a valid reason for handing in work late. At the end of the day, you and you alone are responsible for your performance in the course.
 
-#### Where to go to get your questions answered
+### Where to go to get your questions answered
 
 Your first stop when you have a question should be the course web page: https://csci1230.graphics. It is a useful source of online course material. A wide variety of things like lectures, handouts, the syllabus, TA hours, and software guides can be found on this site.
 You are responsible for checking the web site frequently, as we will be updating it with important information as the semester progresses. Most updates to the website will be accompanied by an announcement to Edstem.
@@ -200,7 +177,7 @@ For more involved course-related questions, you can come to TA hours; the schedu
 You may not ask TAs course-related questions when they are not on hours. All TAs are prohibited by department and university policy from answering course-related questions when not on official TA hours. TAs may answer general administrative questions when not on TA hours.
 Thank you for helping us comply with departmental and university regulations (which reflect applicable federal and state labor laws). If you have any questions about this policy, please contact mta@cs.brown.edu.
 
-#### TA Hours
+### TA Hours
 
 The schedule of TA hours is available on the course website. We will make every effort to maintain these hours without exception. On rare occasion, we might need to cancel or reschedule a TA hour session. When TA hours are rescheduled or exceptions are made, these will be announced on Edstem (which should auto-generate an email announcement to all students).
 
@@ -208,32 +185,12 @@ TA hours are often very busy, and many times there will be a waiting list. You m
 
 Please note that taking any source code (or a TA’s modifications to your source code) away from TA hours is a violation of our collaboration policy. The TAs are not here to debug your code, but rather to clarify your understanding of the concepts taught in class and used in the assignments.
 
-#### Sending mail to the TAs
+### Sending mail to the TAs
 
 If there is a problem with an assignment that affects the entire class (such as a bug in the support code), you may e-mail the TAs at cs1230tas@lists.brown.edu. TAs will respond to course-related e-mail during their office hours. For administrative questions or if there is a problem with a TA, you can e-mail the head TA at cs1230headtas@lists.brown.edu.
 
 Questions related to coding the projects or concepts explained in class should be asked at TA hours or TA help sessions, or on Edstem. We are not able to respond to these types of questions via e-mail.
 
-### Finally, welcome!
+## Feedback for us?
 
-As we mentioned before, CSCI 1230 is a continually evolving course. As such, we are bound to have our own 'bugs' hiding in the corners. Please read everything we hand out very carefully. If there is something which you do not understand, or which is not stated very clearly, please let us know so we can fix it right away. This applies to the material discussed in lecture as well. Give us constructive criticism on all aspects of the course. The more feedback there is, the better we can make this course for you as the semester progresses, and the better we can make it for the next twenty-five years of Brown computer graphics students!
-
-We just went through a lot of heavy talk. Please take all of it seriously, but also remember that we're not trying to scare you. We are here to help you! We're just clearing preliminaries and establishing the ground rules. With that done, we hope you'll have as much fun as we did in CSCI 1230.
-
-## Collaboration Policy
-
-Projects are more fun and interesting than exams, right? We think so, too, which is why this course is 100% project-based: your grade is based solely on your labs, programming projects, and algo assignments. Because the course has no exams, to fairly evaluate you, we need to be sure that your assignments are your own work. This is required by Brown's academic code: “Academic achievement is evaluated on the basis of ***work that a student produces independently***. A student who obtains credit for work, words, or ideas that are not the products of his or her own effort is dishonest and in violation of Brown’s Academic Code.”
-
-However, we also acknowledge that collaborating with your fellow students is part of a rich and rewarding learning experience. We don't want you to feel like you can't talk to other students because you're afraid of being "dishonest" or "in violation of Brown's Academic Code." That's where this document comes in: here, we explicitly clarify all the permitted and not permitted forms of collaboration in this course. The tl;dr is that you are going to have to do most of the heavy thinking/working on your own...but there are still plenty of allowable ways to get help from (and to help out) your fellow students.
-
-### Permitted forms of collaboration
-
-The following forms of collaboration are permitted (and even encouraged!)
-* **The final project**, which can be completed in groups (more details later in the semester).
-* **Discussing the algo assignments**. If you do discuss an algo assignment with other students, you should retain no notes (paper, typed, whiteboard photos, etc.) from the discussion. After the discussion is over and all records of it are gone, you should then write up the solution on your own. Please also ***write down the names and/or CS logins of each student you collaborated with*** next to each question. Your solution should contain only your own work. If you're not sure what this means, consider answering a question like this about a solution in which you wrote some code: "If I changed line 3 of this code to have `2 * i` instead of `i`, what would the output look like? Would the code still compile? Would there be new error-cases to check for?" If you can't answer that kind of question, then the code isn't really *yours*. The same goes for formulas you derive.
-* **Discussing solutions to labs**. In fact, you are encouraged to work together with others on labs and to help each other debug them.
-* **Discussing material covered in lectures or the textbook**. For example: "What are the different transformation matrices that were covered in lecture last week?"
-* **Discussing the requirements of an assignment**.
-* **Asking general knowledge questions about C++**. Examples: “How do I make something public? How do I set up debugging in Qt Creator?”
-* **Discussing general techniques for designing, writing, or debugging code, or for using particular software tools**. Examples: “When I get a segmentation fault, can you show me how to use gdb to find the line where the program crashed?” or "How do I download just one file from a project on github?"
-* **Exchanging render results, scene files, and other test data.** These exchanges are OK, but must be documented in your submission README. Example: “I exchanged {sample renders, scene files} with lcohen2.”
+CSCI 1230 is a continually evolving course. As such, we are bound to have our own 'bugs' hiding in the corners. Please read everything we hand out very carefully. If there is something which you do not understand, or which is not stated very clearly, please let us know so we can fix it right away. This applies to the material discussed in lecture as well. Give us constructive criticism on all aspects of the course. The more feedback there is, the better we can make this course for you as the semester progresses, and the better we can make it for the next twenty-five years of Brown computer graphics students!
