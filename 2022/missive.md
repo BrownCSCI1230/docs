@@ -1,4 +1,4 @@
-# CSCI 1230 Course Syllabus
+# CSCI 1230 Course Missive
 
 Welcome to CSCI 1230, the longest-running computer graphics course in the known universe! This document will get you started with the course.
 
