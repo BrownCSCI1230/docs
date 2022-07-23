@@ -142,6 +142,8 @@ More specifically, follow these guidelines for different parts of the course:
 
 **Edstem**: You're welcome to ask for help on projects from your peers on Edstem, provided you have tried your best to solve the problem on your own. All public Edstem posts asking for help resolving an issue must include a description of the steps you have already tried to solve the problem. Feel free to post images/videos of your program's output, but under no circumstances should you show any of your code. On a related note: if you are responding to a question on Edstem, you should not include any code (even pseudocode) in your response. Diagrams and mathematical expressions are fine, though. When communicating with TAs via Edstem private posts, it is fine to share code.
 
+### Violations of this policy
+We take this collaboration policy very seriously. All project code submissions will be run through MOSS, a sophisticated code similarity program designed to detect software plagiarism.
 
 ## Diversity and Inclusion
 
