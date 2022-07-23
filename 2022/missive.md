@@ -33,7 +33,7 @@ For those confused by the different choices for this course on C@B, we've put to
 
 The official **course** prerequisite for CSCI 1230 is to have completed a CS intro sequence: CSCI 0150 + 0200, 0170 + 0200, 0111 + 0112 + 0200, or 0190.
 
-CSCI 0330, because it uses C, can be helpful but not strictly required. CSCI 0320, for its software design, is additionally helpful but not required. Some familiarity with C++ will be helpful, but help sessions, gear ups, and extra support will be offered to students who don't have any prior C++ experience. Most students take the class without any prior C++ experience. Some knowledge of basic linear algebra (i.e., vector and matrix multiplication, dot and cross products) is also helpful, but none is required or assumed; we will cover all the basics that are needed during class.
+CSCI 0330, because it uses C, can be helpful but is not strictly required. CSCI 0320, for its software design, is additionally helpful but not required. Some familiarity with C++ will be helpful, but help sessions, gear ups, and extra support will be offered to students who don't have any prior C++ experience. Most students take the class without any prior C++ experience. Some knowledge of basic linear algebra (i.e., vector and matrix multiplication, dot and cross products) is also helpful, but none is required or assumed; we will cover all the basics that are needed during class.
 
 There are some **software and infrastructure prerequisites** as well:
 * You need to be able to access Github, esp. Github classroom.
