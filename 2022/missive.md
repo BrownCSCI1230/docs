@@ -135,7 +135,7 @@ More specifically, follow these guidelines for different parts of the course:
 
 **The Final Project**: The final project can be completed in groups of 2-4, and we encourage you to do a group final project! Because the final project can be big and open-ended, there may be cases where it makes sense for you to make use of some third-party software/library. If you think this is necessary and appropriate for your project, please check with your mentor TA. If they approve it, then be sure to cite the software/library in your final project submission.
 
-**Edstem**: sdfsdf
+**Edstem**: You're welcome to ask for help on projects from your peers on Edstem, provided you have tried your best to solve the problem on your own. All public Edstem posts asking for help resolving an issue must include a description of the steps you have already tried to solve the problem. Feel free to post images/videos of your program's output, but under no circumstances should you show any of your code. On a related note: if you are responding to a question on Edstem, you should not include any code (even pseudocode) in your response. Diagrams and mathematical expressions are fine, though.
 
 
 ## Diversity and Inclusion
