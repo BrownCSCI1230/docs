@@ -85,7 +85,7 @@ Over 13 weeks, students will spend 3 hours per week in class (39 hours total), a
 
 ## Grading
 
-Your CSCI 1230 grade consists of 1 tiny written homework, 6 rigorously graded projects, 12 labs that are given completion grades (one of the three final labs is optional), and a final project that is graded according to your presentation to the class during finals period. There are no exams or quizzes, and final grades are not curved; if the work meets specification, it deserves an A, and that is the most common grade. HW0 (which is about the collaboration policy) is critical: you must do it correctly or fail the course.
+Your CSCI 1230 grade consists of 1 tiny written homework, 6 rigorously graded projects, 12 labs that are given completion grades (one of the three final labs is optional), and a final project that is graded according to your presentation to the class during finals period. There are no exams or quizzes. HW0 (which is about our collaboration policy) is critical: you must do it correctly or fail the course.
 * **HW0** ***(must be done correctly to pass course)***
 * **Projects**:
   * **Raster/Brush**: 8%
