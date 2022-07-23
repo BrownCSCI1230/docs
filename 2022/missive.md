@@ -74,7 +74,7 @@ There are six programming projects, divided into three units (raster graphics, r
 ### Algos
 Each programming assignment will be accompanied by a written algorithm (“algo”) assignment to get you started thinking about how to approach the assignment mathematically and algorithmically. Algo answers should be clear and succinct. If we ask you to describe a section of the project’s algorithm, you should probably go with a description, or pseudo code, rather than actual C++.
 
-Algos make up 10% of your final grade. They are graded on effort/completion, with a small amount of extra credit awarded for correct answers. Algorithm worksheets are returned the same day as the deadline so you can begin coding with confidence right away. Because we release the solutions immediately after the deadline, ***late algo submissions are not accepted*** (so be sure to turn them in on time!)
+Algos make up 10% of your final grade. They are graded on effort/completion, with a small amount of extra credit awarded for correct answers. Algorithm solutions are returned the same day as the deadline so you can begin coding with confidence right away. Because we release the solutions immediately after the deadline, ***late algo submissions are not accepted*** (so be sure to turn them in on time!)
 
 ### Labs
 In addition to the projects, a series of labs will provide hands-on experience with various graphics programming topics and tools. Each lab is designed such that the code you write will be helpful for one of the programming projects (or for the final project).
