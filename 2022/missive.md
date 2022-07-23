@@ -106,7 +106,7 @@ There is ample room for bells, whistles, and other credit-garnering efforts on t
 
 ### Regrade Requests
 
-Sometimes you may feel that you have been graded unfairly. If you ever feel this way, please request a regrade on Gradescope. Once your request is evaluated, you will be provided with an explanation and possibly points back. If you are not satisfied with the regrade decision please talk to the Head TA. If there is still a problem, Daniel is the final word in grading and will be happy to hear what you have to say.
+Sometimes you may feel that you have been graded unfairly. If you ever feel this way, please request a regrade on Gradescope. Once your request is evaluated, you will be provided with an explanation and possibly points back. If you are not satisfied with the regrade decision please talk to the HTAs. If there is still a problem, Daniel is the final word in grading and will be happy to hear what you have to say.
 
 If you decide to challenge a grade, you must do so ***within one week of its receipt***. In the past, students have tried to get points back on all of their assignments in the last week of classes; this places an unfair burden on TAs at the end of the semester and is unfair to other students. If you discover that you handed in the wrong work after you get your grade back, or if you fix your program after getting its grade back, we are unable to take those fixes into account for grading purposes.
 
