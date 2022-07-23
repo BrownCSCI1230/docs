@@ -69,7 +69,7 @@ with OpenGL: https://csci1230.graphics/docs
 ## Required Coursework
 
 ### Projects
-There are six programming projects, divided into three units (raster graphics, raytracing, realtime graphics), as well as an open-ended final project. The final project can be completed in groups; all remaining projects must be done individually.
+There are six programming projects, divided into three units (raster graphics, raytracing, realtime graphics), as well as an open-ended final project. The final project can be completed in groups; all other projects must be done individually.
 
 ### Algos
 Each programming assignment will be accompanied by a written algorithm (“algo”) assignment to get you started thinking about how to approach the assignment mathematically and algorithmically. Algo answers should be clear and succinct. If we ask you to describe a section of the project’s algorithm, you should probably go with a description, or pseudo code, rather than actual C++.
