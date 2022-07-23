@@ -43,13 +43,18 @@ There are some **software and infrastructure prerequisites** as well:
 ## Learning Goals
 
 Students who complete this course will:
-* Understand how to create and manipulate raster images
-* Know how to process images by applying filters and transformations while minimizing artifacts such as aliasing (a.k.a. “jaggies”).
-* Be familiar with different ways 3D shapes can be represented in graphics applications.
-* Know how to create and control virtual cameras which can convert 3D scenes to 2D images using linear algebra.
-* Understand mathematical models for calculating the amount of light reflected from an object in a scene.
-* Be able to implement the ray tracing rendering algorithm, which produces pseudo-realistic images with reflections, refractions, and other effects.
-* Be comfortable writing real-time graphics programs using OpenGL and the GLSL shading language.
+* Understand how to create and manipulate raster images by
+  * Simulating paintbrush/airbrush effects
+  * Applying filters and transformations while minimizing artifacts such as aliasing (a.k.a. “jaggies”).
+* Be able to implement the ray tracing rendering algorithm for producing pseudo-realistic imagery, including
+  *  Specifying virtual cameras
+  *  Applying hierarchies of transformations (translation, rotation, scale) to 3D objects
+  *  Determining object visibility by casting rays from a camera into a scene
+  *  Understand mathematicaling models for calculating the amount of light reflected from an object in a scene.
+* Be comfortable writing real-time graphics programs using OpenGL, including
+  * Representing 3D shapes as triangle meshes
+  * Interactively controlling first-person cameras via transformation matrices
+  * Writing shaders in the GLSL shading language for vertex transformation, per-pixel lighting calculation, and full-screen post-processing effects
 
 The full list of CSCI 1230 topics can be found on the course website at https://csci1230.graphics/lectures.
 
